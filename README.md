@@ -26,9 +26,13 @@
 
 ## *会有一些职场指南*
 [快速晋升五大法](https://github.com/lietoumai/Career/issues/4)
+
 [如何与不善聆听的人合作](https://github.com/lietoumai/Career/issues/1)
+
 [在你不工作的时候如何忘记工作](https://github.com/lietoumai/Career/issues/2)
+
 [一个让你更加坚定自信的小技巧](https://github.com/lietoumai/Career/issues/3)
+
 [对自己了解越多任曦越强](https://github.com/lietoumai/Career/issues/5)
 
 ## *会有一些猎头的心得*
