@@ -67,6 +67,8 @@
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
+[69岁程序员的感悟](https://github.com/lietoumai/Tech-article/issues/9)
+
 [在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
 ## *会有一些技术文章（渣翻+Copy）*
