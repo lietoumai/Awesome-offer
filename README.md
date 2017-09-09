@@ -33,7 +33,7 @@
 
 [一个让你更加坚定自信的小技巧](https://github.com/lietoumai/Career/issues/3)
 
-[对自己了解越多任曦越强](https://github.com/lietoumai/Career/issues/5)
+[对自己了解越多韧性越强](https://github.com/lietoumai/Career/issues/5)
 
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
@@ -45,5 +45,6 @@
 
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
+[在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
 其他内容待更新中，欢迎大家提意见
