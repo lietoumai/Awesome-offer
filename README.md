@@ -25,6 +25,7 @@
 ***
 
 ## *会有一些职场指南*
+### 全行业
 [快速晋升五大法](https://github.com/lietoumai/Career/issues/4)
 
 [如何与不善聆听的人合作](https://github.com/lietoumai/Career/issues/1)
@@ -34,6 +35,19 @@
 [一个让你更加坚定自信的小技巧](https://github.com/lietoumai/Career/issues/3)
 
 [对自己了解越多韧性越强](https://github.com/lietoumai/Career/issues/5)
+
+### 软件行业
+[程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
+
+[无我编程的十条戒律](https://github.com/lietoumai/Tech-article/issues/2)
+
+[程序员职业倦怠](https://github.com/lietoumai/Tech-article/issues/3)
+
+[程序员生涯第一生存法则](https://github.com/lietoumai/Tech-article/issues/4)
+
+[自学的程序员如何找到好工作](https://github.com/lietoumai/Tech-article/issues/5)
+
+[没有业余代码，并不代表我毫无激情](https://github.com/lietoumai/Tech-article/issues/6)
 
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
@@ -45,6 +59,7 @@
 
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
+
 [在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
 其他内容待更新中，欢迎大家提意见
