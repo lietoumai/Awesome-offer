@@ -6,7 +6,7 @@
 ## 会含有一些自己翻译的小文章，比如
 [面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
 
-## 会有一些自己的心得，比如
+## 会有一些猎头的心得，比如
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
 ## 会有一些读后感,比如
