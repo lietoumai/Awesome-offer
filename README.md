@@ -6,7 +6,7 @@
 
 ## *求职相关的文章*
 ### 关于简历
-[精益简历之道](https://github.com/lietoumai/Hunter/issues/9)
+[精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
 [如何让你的简历让Google相中](https://github.com/lietoumai/Hunter/issues/8)
 
