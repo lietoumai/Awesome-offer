@@ -1,4 +1,4 @@
-# 职位发布，面试技巧相关（MD语法学习中，还不完善）
+# 职位发布，面试技巧相关
 
 ## *关于职位*
 [上海/北京职位](https://github.com/lietoumai/Hunter/issues/3)
