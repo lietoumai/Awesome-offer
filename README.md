@@ -21,11 +21,9 @@
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
 
 ### 关于技术面试
-| ------------- |:-------------:| -----:|
-| [前端面试](https://github.com/jirengu/frontend-interview/issues)   | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+[前端面试](https://github.com/jirengu/frontend-interview/issues)
+[Node.Js面试](https://github.com/lietoumai/node-interview-questions)
+[后端开发面试题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
 ### 关于Offer选择
 [如何在众多Offer中做选择](https://github.com/lietoumai/Hunter/issues/7)
