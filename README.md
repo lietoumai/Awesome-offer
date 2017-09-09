@@ -4,7 +4,9 @@
 [面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
 
 ## 会有一些自己的心得，比如
-[猎头七宗罪](https://www.douban.com/note/348111856/)
+[猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
 ## 会有一些读后感,比如
 [如何做更好的决策](https://github.com/lietoumai/Hunter/issues/2)
+
+其他内容待更新中，欢迎大家提意见
