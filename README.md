@@ -13,12 +13,19 @@
 ### 关于怎么判断公司
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
 
-### 关于面试
+### 关于常规面试
 [面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
 
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
 
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
+
+### 关于技术面试
+| ------------- |:-------------:| -----:|
+| [前端面试](https://github.com/jirengu/frontend-interview/issues)   | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ### 关于Offer选择
 [如何在众多Offer中做选择](https://github.com/lietoumai/Hunter/issues/7)
