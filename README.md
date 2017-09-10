@@ -43,7 +43,7 @@
 
 [对自己了解越多韧性越强](https://github.com/lietoumai/Career/issues/5)
 
-[快乐陷阱](https://github.com/lietoumai/Career/issues/6)
+[幸福圈套](https://github.com/lietoumai/Career/issues/6)
 
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
