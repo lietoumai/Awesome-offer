@@ -35,6 +35,8 @@
 
 ## *会有一些职场指南*
 ### 全行业
+[拯救你的情商](https://github.com/lietoumai/Career/issues/7)
+
 [快速晋升五大法](https://github.com/lietoumai/Career/issues/4)
 
 [如何与不善聆听的人合作](https://github.com/lietoumai/Career/issues/1)
