@@ -49,6 +49,8 @@
 
 [幸福圈套](https://github.com/lietoumai/Career/issues/6)
 
+[所谓一本万利的投资，真的只有终身学习](https://github.com/lietoumai/Career/issues/6)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
