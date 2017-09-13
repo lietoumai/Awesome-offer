@@ -86,6 +86,7 @@
 
 [百花齐放的工具是Web的未来](https://github.com/lietoumai/Tech-article/issues/8)
 
-
+## *会有好书推荐*
+[英文类](https://github.com/lietoumai/Tech-Book/projects/1)
 
 其他内容待更新中，欢迎大家提意见
