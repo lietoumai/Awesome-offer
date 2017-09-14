@@ -20,6 +20,8 @@
 
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
 
+[如何搞掂面试压力](https://github.com/lietoumai/Hunter/issues/14)
+
 ### 关于技术面试
 [前端面试](https://github.com/jirengu/frontend-interview/issues)
 
