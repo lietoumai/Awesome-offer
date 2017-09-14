@@ -31,6 +31,8 @@
 [如何在众多Offer中做选择](https://github.com/lietoumai/Hunter/issues/7)
 
 [谈offer十法-上篇](https://github.com/lietoumai/Hunter/issues/11)
+[谈offer十法-下篇](https://github.com/lietoumai/Hunter/issues/13)
+
 ***
 
 ## *会有一些职场指南*
