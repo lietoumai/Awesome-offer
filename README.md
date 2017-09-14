@@ -82,7 +82,7 @@
 
 [在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
-## *会有一些技术文章（渣翻+Copy）*
+## *会有一些技术文章*
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
 
 [Java 10年技术栈](https://github.com/lietoumai/Tech-article/issues/11)
