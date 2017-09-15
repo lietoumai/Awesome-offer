@@ -32,6 +32,8 @@
 ### 关于Offer选择
 [如何在众多Offer中做选择](https://github.com/lietoumai/Hunter/issues/7)
 
+[谈offer十五法](https://github.com/lietoumai/Hunter/issues/14)
+
 [谈offer十法-上篇](https://github.com/lietoumai/Hunter/issues/11)
 
 [谈offer十法-下篇](https://github.com/lietoumai/Hunter/issues/13)
