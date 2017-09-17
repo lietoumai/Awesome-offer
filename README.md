@@ -74,6 +74,8 @@
 
 [没有业余代码，并不代表我毫无激情](https://github.com/lietoumai/Tech-article/issues/6)
 
+[不要浪费时间去写完美代码](https://github.com/lietoumai/Tech-article/issues/12)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
