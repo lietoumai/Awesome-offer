@@ -58,6 +58,9 @@
 
 [所谓一本万利的投资，真的只有终身学习](https://github.com/lietoumai/Career/issues/8)
 
+[管理工作，管理人生](https://github.com/lietoumai/Career/issues/15)
+
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
