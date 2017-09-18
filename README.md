@@ -105,5 +105,5 @@
 
 其他内容待更新中，欢迎大家提意见，意见渠道
 
-![image](https://user-images.githubusercontent.com/13960647/30534934-e5736664-9c92-11e7-846e-5bac0865b175.png)
+![image](https://user-images.githubusercontent.com/13960647/30535151-d828da88-9c93-11e7-8c1d-fb274e7264f0.png)
 
