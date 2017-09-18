@@ -104,3 +104,7 @@
 [英文类](https://github.com/lietoumai/Tech-Book/projects/1)
 
 其他内容待更新中，欢迎大家提意见
+
+意见渠道：
+![image](https://user-images.githubusercontent.com/13960647/30534934-e5736664-9c92-11e7-846e-5bac0865b175.png)
+
