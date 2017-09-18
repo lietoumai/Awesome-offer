@@ -76,6 +76,8 @@
 
 [不要浪费时间去写完美代码](https://github.com/lietoumai/Tech-article/issues/12)
 
+[是什么成就了一名高级程序员？](https://github.com/lietoumai/Career/issues/9)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
