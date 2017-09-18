@@ -60,7 +60,7 @@
 
 [管理工作，管理人生](https://github.com/lietoumai/Hunter/issues/15)
 
-[如何成为本领域内的精英？](https://github.com/lietoumai/Career/issues/10)
+[想成为本行业内的精英？看这篇就够了](https://github.com/lietoumai/Career/issues/10)
 
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
