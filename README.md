@@ -10,6 +10,8 @@
 
 [如何让你的简历让Google相中](https://github.com/lietoumai/Hunter/issues/8)
 
+[基于我15年简历分享经验而得来的最佳简历模板](https://github.com/lietoumai/Hunter/issues/15)
+
 ### 关于怎么判断公司
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
 
