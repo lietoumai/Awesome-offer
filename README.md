@@ -66,6 +66,8 @@
 
 [想成为本行业内的精英？看这篇就够了](https://github.com/lietoumai/Career/issues/10)
 
+[如何应付一个让你感到亚力山大的老板](https://github.com/lietoumai/Career/issues/11)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
