@@ -20,15 +20,15 @@
 ### 关于常规面试
 [面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
 
-[另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
-
-[没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
-
 [如何搞掂面试压力](https://github.com/lietoumai/Hunter/issues/14)
 
 [你需要问面试官的14个问题](https://github.com/lietoumai/Hunter/issues/20)
 
 ### 关于技术面试
+[另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
+
+[没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
+
 [前端面试](https://github.com/jirengu/frontend-interview/issues)
 
 [Node.Js面试](https://github.com/lietoumai/node-interview-questions)
