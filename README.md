@@ -27,7 +27,7 @@
 ### 关于技术面试
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
 
-[你为什么需要在下一次技术面试中问问题？](https://github.com/lietoumai/Hunter/issues/21)
+[你为什么需要在下一次技术公司的面试中问问题？](https://github.com/lietoumai/Hunter/issues/21)
 
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
 
