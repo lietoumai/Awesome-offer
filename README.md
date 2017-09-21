@@ -26,6 +26,8 @@
 
 [如何搞掂面试压力](https://github.com/lietoumai/Hunter/issues/14)
 
+[你需要问面试官的14个问题](https://github.com/lietoumai/Hunter/issues/20)
+
 ### 关于技术面试
 [前端面试](https://github.com/jirengu/frontend-interview/issues)
 
