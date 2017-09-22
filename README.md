@@ -37,7 +37,7 @@
 
 [后端开发面试题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
-### 关于Offer选择
+### 关于Offer的选择和拒绝
 [如何在众多Offer中做选择](https://github.com/lietoumai/Hunter/issues/7)
 
 [谈offer十五法](https://github.com/lietoumai/Hunter/issues/12)
@@ -45,6 +45,9 @@
 [谈offer十法-上篇](https://github.com/lietoumai/Hunter/issues/11)
 
 [谈offer十法-下篇](https://github.com/lietoumai/Hunter/issues/13)
+
+[如何优雅的拒绝Offer](https://github.com/lietoumai/Hunter/issues/20)
+
 
 ***
 
