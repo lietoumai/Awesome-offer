@@ -46,8 +46,7 @@
 
 [谈offer十法-下篇](https://github.com/lietoumai/Hunter/issues/13)
 
-[如何优雅的拒绝Offer](https://github.com/lietoumai/Hunter/issues/20)
-
+[如何优雅的拒绝Offer](https://github.com/lietoumai/Hunter/issues/22)
 
 ***
 
