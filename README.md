@@ -74,6 +74,8 @@
 
 [如何应付一个让你感到亚力山大的老板](https://github.com/lietoumai/Career/issues/11)
 
+[犯错之后怎么办](https://github.com/lietoumai/Career/issues/13)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
