@@ -76,6 +76,8 @@
 
 [犯错之后怎么办](https://github.com/lietoumai/Career/issues/13)
 
+[大学里学不到的五条职场建议（也适用于职场人士）](https://github.com/lietoumai/Career/issues/14)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
