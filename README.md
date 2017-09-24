@@ -114,6 +114,8 @@
 
 [在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
+[一些来自于老程序员的人生经验 ](https://github.com/lietoumai/Hunter/issues/24)
+
 ## *会有一些技术文章*
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
 
