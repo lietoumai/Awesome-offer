@@ -12,7 +12,7 @@
 
 [基于我15年简历分享经验而得来的最佳简历模板](https://github.com/lietoumai/Hunter/issues/15)
 
-[如果你的抬头并不能反映你的职能，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
+[如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
 ### 关于目标公司
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
