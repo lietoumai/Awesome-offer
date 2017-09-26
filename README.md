@@ -101,6 +101,8 @@
 
 [明星软件工程师的10种特质](https://github.com/lietoumai/Career/issues/13)
 
+[优秀的程序员都有哪些习惯](https://github.com/lietoumai/Career/issues/16)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
@@ -117,6 +119,8 @@
 [在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
 [一些来自于老程序员的人生经验 ](https://github.com/lietoumai/Hunter/issues/24)
+
+
 
 ## *会有一些技术文章*
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
