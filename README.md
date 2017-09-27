@@ -82,6 +82,8 @@
 
 [职场抉择中的5大忌](https://github.com/lietoumai/Career/issues/23)
 
+[如何优雅的告诉老板你工作太辛苦了](https://github.com/lietoumai/Career/issues/17)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
