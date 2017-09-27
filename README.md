@@ -105,6 +105,8 @@
 
 [优秀的程序员都有哪些习惯](https://github.com/lietoumai/Career/issues/16)
 
+[开发高质量软件的区别因素](https://github.com/lietoumai/Tech-article/issues/14)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
