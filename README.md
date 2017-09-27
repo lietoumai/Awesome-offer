@@ -14,10 +14,8 @@
 
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
-### 关于目标公司
+### 关于公司
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
-
-[你真正想要在工作中得到什么](https://github.com/lietoumai/Hunter/issues/17)
 
 ### 关于常规面试
 [面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
@@ -49,6 +47,8 @@
 [谈offer十法-下篇](https://github.com/lietoumai/Hunter/issues/13)
 
 [如何优雅的拒绝Offer](https://github.com/lietoumai/Hunter/issues/22)
+
+[你真正想要在工作中得到什么](https://github.com/lietoumai/Hunter/issues/17)
 
 ***
 
