@@ -17,6 +17,8 @@
 ### 关于公司
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
 
+[在加入创业公司之前需要去问创始人的7个问题](https://github.com/lietoumai/Hunter/issues/25)
+
 ### 关于常规面试
 [面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
 
