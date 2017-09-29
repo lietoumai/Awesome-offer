@@ -111,6 +111,8 @@
 
 [关于老程序员招聘和应聘的那点事](https://github.com/lietoumai/Tech-article/issues/15)
 
+[内向的人很难成为群体程序员吗?](https://github.com/lietoumai/Tech-article/issues/16)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
