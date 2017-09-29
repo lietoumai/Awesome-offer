@@ -109,6 +109,8 @@
 
 [开发高质量软件的区别因素](https://github.com/lietoumai/Tech-article/issues/14)
 
+[关于老程序员招聘和应聘的那点事](https://github.com/lietoumai/Tech-article/issues/15)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
@@ -125,8 +127,6 @@
 [在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
 [一些来自于老程序员的人生经验 ](https://github.com/lietoumai/Hunter/issues/24)
-
-
 
 ## *会有一些技术文章*
 ### 后端
