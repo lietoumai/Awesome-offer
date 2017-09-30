@@ -86,6 +86,8 @@
 
 [如何优雅的告诉老板你工作太辛苦了](https://github.com/lietoumai/Career/issues/17)
 
+[在一个变化的世界中如何成为专家？](https://github.com/lietoumai/Hunter/issues/26)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
