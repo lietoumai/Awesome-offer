@@ -113,6 +113,8 @@
 
 [内向的人很难成为群体程序员吗?](https://github.com/lietoumai/Tech-article/issues/16)
 
+[程序员的进化](https://github.com/lietoumai/Career/issues/18)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
