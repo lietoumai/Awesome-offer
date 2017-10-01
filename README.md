@@ -117,6 +117,8 @@
 
 [程序员的进化](https://github.com/lietoumai/Career/issues/18)
 
+[如何成为一个技术全面的架构师?](https://github.com/lietoumai/Tech-article/issues/17)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 ***
