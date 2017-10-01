@@ -14,7 +14,7 @@
 
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
-### 关于公司
+### 关于公司选择
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
 
 [在加入创业公司之前需要去问创始人的7个问题](https://github.com/lietoumai/Hunter/issues/25)
@@ -56,6 +56,8 @@
 
 ## *会有一些职场指南*
 ### 全行业
+[如何要求加薪](https://github.com/lietoumai/Career/issues/19)
+
 [拯救你的情商](https://github.com/lietoumai/Career/issues/7)
 
 [快速晋升五大法](https://github.com/lietoumai/Career/issues/4)
