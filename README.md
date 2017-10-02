@@ -84,7 +84,7 @@
 
 [大学里学不到的五条职场建议（也适用于职场人士）](https://github.com/lietoumai/Career/issues/14)
 
-[职场抉择中的5大忌](https://github.com/lietoumai/Career/issues/23)
+[职场抉择中的5大忌](https://github.com/lietoumai/Hunter/issues/23)
 
 [如何优雅的告诉老板你工作太辛苦了](https://github.com/lietoumai/Career/issues/17)
 
