@@ -10,7 +10,7 @@
 
 [如何让你的简历让Google相中](https://github.com/lietoumai/Hunter/issues/8)
 
-[基于我15年简历分享经验而得来的最佳简历模板](https://github.com/lietoumai/Hunter/issues/15)
+[基于我15年简历分享经验而得来的最佳简历模板](https://github.com/lietoumai/Hunter/issues/16)
 
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
