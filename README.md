@@ -107,7 +107,7 @@
 
 [是什么成就了一名高级程序员](https://github.com/lietoumai/Career/issues/9)
 
-[明星软件工程师的10种特质](https://github.com/lietoumai/Career/issues/13)
+[明星软件工程师的10种特质](https://github.com/lietoumai/Tech-article/issues/13)
 
 [优秀的程序员都有哪些习惯](https://github.com/lietoumai/Career/issues/16)
 
