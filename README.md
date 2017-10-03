@@ -124,7 +124,7 @@
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
-[如何引起猎头的注意](https://www.gitbook.com/book/lietoumai/the-story-of-lietoumai/edit#/edit/master/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.md?_k=qzfvnw)
+[如何引起猎头的注意](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.html)
 ***
 
 ## *会有一些读后感*
