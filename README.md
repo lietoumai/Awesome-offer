@@ -92,8 +92,6 @@
 
 [你那么专注，为什么工作还是做不好？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ni-na-yao-zhuan-zhu-ff0c-wei-shi-yao-gong-zuo-huan-shi-zuo-bu-hao.html)
 
-[职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
-
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
@@ -127,17 +125,6 @@
 
 [支撑程序员的三种精神](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/zhi-cheng-cheng-xu-yuan-de-san-zhong-jing-shen.html)
 
-
-## *会有一些猎头的心得*
-[猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
-
-[如何引起猎头的注意](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.html)
-***
-
-## *会有一些读后感*
-[如何做更好的决策](https://github.com/lietoumai/Hunter/issues/2)
-***
-
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
@@ -159,6 +146,21 @@
 [浅谈Web自适应](https://github.com/lietoumai/Front-end/issues/1)
 
 [基于.Net Core 建造React Web 应用](https://github.com/lietoumai/Front-end/issues/2)
+
+## *会有一些鸡汤和反鸡汤*
+[职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
+
+[别浪费时间了，成功人士的经验之谈真的没什么用](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/zhi-cheng-cheng-xu-yuan-de-san-zhong-jing-shen.html)
+
+## *会有一些猎头的心得*
+[猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
+
+[如何引起猎头的注意](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.html)
+***
+
+## *会有一些读后感*
+[如何做更好的决策](https://github.com/lietoumai/Hunter/issues/2)
+***
 
 ## *会有好书推荐*
 [英文类](https://github.com/lietoumai/Tech-Book/projects/1)
