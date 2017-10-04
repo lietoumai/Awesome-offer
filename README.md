@@ -121,6 +121,9 @@
 
 [如何成为一个技术全面的架构师?](https://github.com/lietoumai/Tech-article/issues/17)
 
+[支撑程序员的三种精神](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/zhi-cheng-cheng-xu-yuan-de-san-zhong-jing-shen.html)
+
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
