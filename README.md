@@ -150,7 +150,7 @@
 ## *会有一些鸡汤和反鸡汤*
 [职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
 
-[别浪费时间了，成功人士的经验之谈真的没什么用](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/zhi-cheng-cheng-xu-yuan-de-san-zhong-jing-shen.html)
+[别浪费时间了，成功人士的经验之谈真的没什么用](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/cheng-gong-ren-shi-de-jing-yan-zhi-tan-mei-shi-yao-yong.html)
 
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
