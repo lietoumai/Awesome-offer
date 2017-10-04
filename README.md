@@ -90,6 +90,8 @@
 
 [如何在一个变化的世界中成为专家？](https://github.com/lietoumai/Hunter/issues/26)
 
+[你那么专注，为什么工作还是做不好？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ni-na-yao-zhuan-zhu-ff0c-wei-shi-yao-gong-zuo-huan-shi-zuo-bu-hao.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
