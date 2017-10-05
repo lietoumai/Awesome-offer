@@ -52,6 +52,11 @@
 
 [你真正想要在工作中得到什么](https://github.com/lietoumai/Hunter/issues/17)
 
+### 关于入职
+[简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
+
+[入职新岗位的十条建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/ru-zhi-xin-gang-wei-de-shi-tiao-you-yong-jian-yi.html)
+
 ***
 
 ## *会有一些职场指南*
