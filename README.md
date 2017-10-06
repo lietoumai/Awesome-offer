@@ -5,6 +5,11 @@
 ***
 
 ## *求职相关的文章*
+### 关于公司
+[选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
+
+[在加入创业公司之前需要去问创始人的7个问题](https://github.com/lietoumai/Hunter/issues/25)
+
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
@@ -13,11 +18,6 @@
 [基于我15年简历分享经验而得来的最佳简历模板](https://github.com/lietoumai/Hunter/issues/16)
 
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
-
-### 关于公司选择
-[选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
-
-[在加入创业公司之前需要去问创始人的7个问题](https://github.com/lietoumai/Hunter/issues/25)
 
 ### 关于常规面试
 [面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
