@@ -130,6 +130,8 @@
 
 [支撑程序员的三种精神](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/zhi-cheng-cheng-xu-yuan-de-san-zhong-jing-shen.html)
 
+[你的代码为谁而写](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ni-de-dai-ma-wei-shui-er-51993f.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
