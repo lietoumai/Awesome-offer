@@ -58,8 +58,11 @@
 [入职新岗位的十条建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/ru-zhi-xin-gang-wei-de-shi-tiao-you-yong-jian-yi.html)
 
 ### 关于离职
+[离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
+
 [如何优雅的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/ru-he-you-ya-de-ti-li-zhi.html)
 ***
+
 
 ## *会有一些职场指南*
 ### 全行业
