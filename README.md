@@ -137,6 +137,8 @@
 
 [你的代码为谁而写](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ni-de-dai-ma-wei-shui-er-51993f.html)
 
+[如何才能更有效率](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ru-he-cai-neng-geng-you-xiao-lv.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
