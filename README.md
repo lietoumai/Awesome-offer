@@ -139,6 +139,8 @@
 
 [如何才能更有效率](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ru-he-cai-neng-geng-you-xiao-lv.html)
 
+[10年编程教会我最重要的10件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/10nian-bian-cheng-jiao-hui-wo-zui-zhong-yao-de-10-jian-shi.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
