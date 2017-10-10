@@ -102,6 +102,8 @@
 
 [你那么专注，为什么工作还是做不好？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ni-na-yao-zhuan-zhu-ff0c-wei-shi-yao-gong-zuo-huan-shi-zuo-bu-hao.html)
 
+[如何做到真正的效率爆棚？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ru-he-zuo-dao-zhen-zheng-de-xiao-lv-bao-peng.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
@@ -140,8 +142,6 @@
 [如何才能更有效率](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ru-he-cai-neng-geng-you-xiao-lv.html)
 
 [10年编程教会我最重要的10件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/10nian-bian-cheng-jiao-hui-wo-zui-zhong-yao-de-10-jian-shi.html)
-
-[你那么专注，为什么工作还是做不好？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ni-na-yao-zhuan-zhu-ff0c-wei-shi-yao-gong-zuo-huan-shi-zuo-bu-hao.html)
 
 [没热情就不够格做程序员么？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/mei-re-qing-jiu-bu-gou-ge-zuo-cheng-xu-yuan-yao-ff1f.html)
 
