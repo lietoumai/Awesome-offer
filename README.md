@@ -10,6 +10,11 @@
 
 [在加入创业公司之前需要去问创始人的7个问题](https://github.com/lietoumai/Hunter/issues/25)
 
+### 关于招聘
+[关于招聘老程序员的招聘建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/guan-yu-lao-cheng-xu-yuan-zhao-pin-he-ying-pin-de-na-dian-shi.html)
+
+[减少招聘偏见七大法](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/jian-shao-zhao-pin-pian-jian-qi-da-fa.html)
+
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
