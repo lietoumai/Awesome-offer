@@ -68,7 +68,6 @@
 [如何优雅的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/ru-he-you-ya-de-ti-li-zhi.html)
 ***
 
-
 ## *会有一些职场指南*
 ### 全行业
 [如何要求加薪](https://github.com/lietoumai/Career/issues/19)
@@ -153,6 +152,8 @@
 [10年编程教会我最重要的10件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/10nian-bian-cheng-jiao-hui-wo-zui-zhong-yao-de-10-jian-shi.html)
 
 [没热情就不够格做程序员么？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/mei-re-qing-jiu-bu-gou-ge-zuo-cheng-xu-yuan-yao-ff1f.html)
+
+[工程师写博客的必要性](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/gong-cheng-shi-xie-bo-ke-de-bi-yao-xing.html)
 
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
