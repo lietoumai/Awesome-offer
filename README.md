@@ -112,6 +112,8 @@
 
 [如何处理优先级的问题](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/guan-yu-you-xian-ji-de-wen-ti.html)
 
+[3招打破挫败、压力和挣扎的死循环](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/san-zhao-da-po-cuo-bai-3001-ya-li-he-zheng-zha.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
