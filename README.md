@@ -114,6 +114,8 @@
 
 [3招打破挫败、压力和挣扎的死循环](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/san-zhao-da-po-cuo-bai-3001-ya-li-he-zheng-zha.html)
 
+[我最喜欢问应聘者的问题 & 回答思路](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wo-zui-xi-huan-wen-ying-pin-zhe-de-wen-ti-and-hui-da-si-lu.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
