@@ -116,7 +116,7 @@
 
 [我最喜欢问应聘者的问题 & 回答思路](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wo-zui-xi-huan-wen-ying-pin-zhe-de-wen-ti-and-hui-da-si-lu.html)
 
-[第一印象如此重要，这些加分项你怎能不知道？](https://github.com/lietoumai/Hunter/issues/28)
+[第一印象如此重要，这些加分项你怎能不知道？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gei-di-yi-yin-xiang-jia-fen.html)
 
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
