@@ -31,6 +31,9 @@
 
 [你需要问面试官的14个问题](https://github.com/lietoumai/Hunter/issues/20)
 
+[重新审视面试-书摘](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhong-xin-kan-dai-mian-shi.html)
+
+
 ### 关于技术面试
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
 
