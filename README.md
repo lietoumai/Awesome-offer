@@ -123,6 +123,8 @@
 
 [越勤奋，越不能解决复杂问题](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/yue-qin-fen-ff0c-yue-bu-neng-jie-jue-fu-za-wen-ti.html)
 
+[从琐事中寻找意义感](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/cong-suo-shi-zhong-xun-zhao-yi-yi-gan.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
