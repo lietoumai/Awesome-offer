@@ -168,6 +168,8 @@
 
 [工程师写博客的必要性](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/gong-cheng-shi-xie-bo-ke-de-bi-yao-xing.html)
 
+[你是否应该成为一名全栈工程师](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ni-shi-fou-ying-gai-cheng-wei-yi-ming-quan-zhan-gong-cheng-shi-ff1f.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
