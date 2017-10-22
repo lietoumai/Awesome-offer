@@ -197,6 +197,8 @@
 
 [别浪费时间了，成功人士的经验之谈真的没什么用](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/cheng-gong-ren-shi-de-jing-yan-zhi-tan-mei-shi-yao-yong.html)
 
+[比尔盖茨的六十条睿智语录](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/bi-5c14b7-gai-ci-de-60-tiao-rui-zhi-yu-lu.html)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
