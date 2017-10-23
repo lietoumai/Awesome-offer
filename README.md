@@ -170,6 +170,8 @@
 
 [你是否应该成为一名全栈工程师](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ni-shi-fou-ying-gai-cheng-wei-yi-ming-quan-zhan-gong-cheng-shi-ff1f.html)
 
+[程序员需注意的健康问题](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cheng-xu-yuan-jian-kang-wen-ti.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
