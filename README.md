@@ -125,6 +125,9 @@
 
 [从琐事中寻找意义感](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/cong-suo-shi-zhong-xun-zhao-yi-yi-gan.html)
 
+[简单概述机会成本与沉没成本](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/jian-dan-gai-shu-ji-hui-cheng-ben-yu-chen-mei-cheng-ben.html)
+
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
