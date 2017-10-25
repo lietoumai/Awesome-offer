@@ -127,6 +127,7 @@
 
 [简单概述机会成本与沉没成本](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/jian-dan-gai-shu-ji-hui-cheng-ben-yu-chen-mei-cheng-ben.html)
 
+[生活中应该了解的事](https://github.com/lietoumai/Hunter/issues/29)
 
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
