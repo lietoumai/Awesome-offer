@@ -176,7 +176,7 @@
 
 [程序员需注意的健康问题](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cheng-xu-yuan-jian-kang-wen-ti.html)
 
-[草根程序员如何进入BAT](https://github.com/lietoumai/Hunter/issues/30)
+[草根程序员如何进入BAT](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cao-gen-cheng-xu-yuan-ru-he-jin-ru-bat.html)
 
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
