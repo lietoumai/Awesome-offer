@@ -218,7 +218,7 @@
 ***
 
 ## *会有好书推荐*
-[英文类](https://github.com/lietoumai/Tech-Book/projects/1)
+[中文&英文](https://github.com/lietoumai/Book/projects)
 
 其他内容待更新中，欢迎大家提意见，意见渠道
 
