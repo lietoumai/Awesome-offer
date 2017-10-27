@@ -178,6 +178,8 @@
 
 [草根程序员如何进入BAT](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cao-gen-cheng-xu-yuan-ru-he-jin-ru-bat.html)
 
+[程序员工作时被打断了该怎么办？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cheng-xu-yuan-gong-zuo-shi-bei-da-duan-le-gai-zen-yao-ban-ff1f.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
