@@ -129,6 +129,9 @@
 
 [生活中应该了解的事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/sheng-huo-zhong-ying-gai-le-jie-de-yi-xie-shi.html)
 
+[感谢那些讲话难听的人](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gan-xie-na-xie-jiang-hua-nan-ting-de-ren.html)
+
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
