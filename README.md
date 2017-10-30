@@ -10,6 +10,8 @@
 
 [在加入创业公司之前需要去问创始人的7个问题](https://github.com/lietoumai/Hunter/issues/25)
 
+[创业之前（或加入创业公司之前）把“精神问题”想清楚](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/chuang-ye-xu-yao-de-chuang-ye-jing-shen.html)
+
 ### 关于招聘
 [关于招聘老程序员的招聘建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/guan-yu-lao-cheng-xu-yuan-zhao-pin-he-ying-pin-de-na-dian-shi.html)
 
