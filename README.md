@@ -133,6 +133,7 @@
 
 [感谢那些讲话难听的人](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gan-xie-na-xie-jiang-hua-nan-ting-de-ren.html)
 
+[作为自由职业者，你必须知道的20个赢利原则](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/zuo-wei-zi-you-zhi-ye-zhe-ff0c-ni-bi-xu-zhi-dao-de-20-ge-ying-li-yuan-ze.html)
 
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
