@@ -35,11 +35,12 @@
 
 [重新审视面试-书摘](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhong-xin-kan-dai-mian-shi.html)
 
-
 ### 关于技术面试
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
 
 [你为什么需要在下一次技术公司的面试中问问题？](https://github.com/lietoumai/Hunter/issues/21)
+
+[我最喜欢问应聘者的问题 & 回答思路](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wo-zui-xi-huan-wen-ying-pin-zhe-de-wen-ti-and-hui-da-si-lu.html)
 
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
 
@@ -118,8 +119,6 @@
 [如何处理优先级的问题](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/guan-yu-you-xian-ji-de-wen-ti.html)
 
 [3招打破挫败、压力和挣扎的死循环](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/san-zhao-da-po-cuo-bai-3001-ya-li-he-zheng-zha.html)
-
-[我最喜欢问应聘者的问题 & 回答思路](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wo-zui-xi-huan-wen-ying-pin-zhe-de-wen-ti-and-hui-da-si-lu.html)
 
 [第一印象如此重要，这些加分项你怎能不知道？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gei-di-yi-yin-xiang-jia-fen.html)
 
