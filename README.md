@@ -12,6 +12,8 @@
 
 [创业之前（或加入创业公司之前）把“精神问题”想清楚](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/chuang-ye-xu-yao-de-chuang-ye-jing-shen.html)
 
+[如何评估创业公司的价值](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/gong-si-xiang-guan/23ru-he-ping-gu-chuang-ye-gong-si-de-jia-zhi.html)
+
 ### 关于招聘
 [关于招聘老程序员的招聘建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/guan-yu-lao-cheng-xu-yuan-zhao-pin-he-ying-pin-de-na-dian-shi.html)
 
