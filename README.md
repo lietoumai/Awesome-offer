@@ -189,6 +189,8 @@
 
 [如何掌握所有语言](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ru-he-zhang-wo-suo-you-de-yu-yan.html)
 
+[程序员能创造价值，但他们不是商品](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cheng-xu-yuan-neng-chuang-zao-jia-zhi-ff0c-dan-ta-men-bu-shi-shang-pin.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
