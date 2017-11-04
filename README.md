@@ -136,6 +136,8 @@
 
 [作为自由职业者，你必须知道的20个赢利原则](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/zuo-wei-zi-you-zhi-ye-zhe-ff0c-ni-bi-xu-zhi-dao-de-20-ge-ying-li-yuan-ze.html)
 
+[信誉比经验更重要](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/xin-yu-bi-jing-yan-geng-zhong-yao.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
