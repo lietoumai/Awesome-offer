@@ -238,7 +238,4 @@
 ## *会有好书推荐*
 [中文&英文](https://github.com/lietoumai/Book/projects)
 
-其他内容待更新中，欢迎大家提意见，意见渠道
-
-![image](https://user-images.githubusercontent.com/13960647/30535151-d828da88-9c93-11e7-8c1d-fb274e7264f0.png)
 
