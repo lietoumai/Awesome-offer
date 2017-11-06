@@ -140,6 +140,8 @@
 
 [不断跳槽也能成功](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bu-duan-tiao-cao-ye-neng-cheng-gong.html)
 
+[比起识破谎言，让别人说真话才是真本事](https://github.com/lietoumai/Hunter/issues/31)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
