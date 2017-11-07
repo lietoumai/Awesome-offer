@@ -206,6 +206,8 @@
 
 [一些来自于老程序员的人生经验 ](https://github.com/lietoumai/Hunter/issues/24)
 
+[作为程序员，这些话你肯定说过](https://github.com/lietoumai/Hunter/issues/32)
+
 ## *会有一些技术文章*
 ### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
@@ -227,8 +229,6 @@
 [比尔盖茨的六十条睿智语录](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/bi-5c14b7-gai-ci-de-60-tiao-rui-zhi-yu-lu.html)
 
 [在宇宙中留下你的足迹](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/75zai-yu-zhou-zhong-liu-xia-zu-ji.html)
-
-[作为程序员，这些话你肯定说过](https://github.com/lietoumai/Hunter/issues/32)
 
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
