@@ -142,6 +142,8 @@
 
 [比起识破谎言，让别人说真话才是真本事](https://github.com/lietoumai/Hunter/issues/31)
 
+[好的管理就是别妨碍员工做事情](https://github.com/lietoumai/Hunter/issues/33)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
