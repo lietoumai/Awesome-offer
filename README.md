@@ -140,9 +140,11 @@
 
 [不断跳槽也能成功](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bu-duan-tiao-cao-ye-neng-cheng-gong.html)
 
-[比起识破谎言，让别人说真话才是真本事](https://github.com/lietoumai/Hunter/issues/31)
+[比起识破谎言，让别人说真话才是真本事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bi-qi-shi-po-huang-yan-ff0c-rang-bie-ren-shuo-zhen-hua-cai-shi-zhen-ben-shi.html)
 
 [好的管理就是别妨碍员工做事情](https://github.com/lietoumai/Hunter/issues/33)
+
+[你的职场上限在哪里](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ni-de-zhi-chang-shang-xian-jiu-jing-zai-na-li-ff1f.html)
 
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
