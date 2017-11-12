@@ -148,6 +148,8 @@
 
 [你的职场上限在哪里](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ni-de-zhi-chang-shang-xian-jiu-jing-zai-na-li-ff1f.html)
 
+[工作中只有毫不伪装地做自己，才会活得更惬意](https://github.com/lietoumai/Hunter/issues/36)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
