@@ -19,6 +19,8 @@
 
 [减少招聘偏见七大法](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/jian-shao-zhao-pin-pian-jian-qi-da-fa.html)
 
+[招聘黑话大全](https://github.com/lietoumai/Hunter/issues/35)
+
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
