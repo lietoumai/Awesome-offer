@@ -150,6 +150,8 @@
 
 [工作中只有毫不伪装地做自己，才会活得更惬意](https://github.com/lietoumai/Hunter/issues/36)
 
+[进阶“高潜力人才”的三个锦囊](https://github.com/lietoumai/Hunter/issues/37)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
