@@ -152,6 +152,8 @@
 
 [进阶“高潜力人才”的三个锦囊](https://github.com/lietoumai/Hunter/issues/37)
 
+[会提问的人运气都不会差](https://github.com/lietoumai/Hunter/issues/38)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
