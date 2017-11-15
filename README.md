@@ -244,6 +244,8 @@
 
 [在宇宙中留下你的足迹](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/75zai-yu-zhou-zhong-liu-xia-zu-ji.html)
 
+[学姐说](https://github.com/lietoumai/Chicken-Soup/issues/2)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
