@@ -211,6 +211,9 @@
 
 [学习如何理解代码以成为更优秀的程序员](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/xue-xi-ru-he-li-jie-dai-ma-yi-cheng-wei-geng-you-xiu-de-cheng-xu-yuan.html)
 
+[给迷茫的开发者的 18 个建议 ](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/gei-mi-mang-de-kai-fa-zhe-de-18-ge-jian-yi.html?from=singlemessage)
+
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
