@@ -213,6 +213,7 @@
 
 [给迷茫的开发者的 18 个建议 ](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/gei-mi-mang-de-kai-fa-zhe-de-18-ge-jian-yi.html?from=singlemessage)
 
+[软件开发有多贵 ](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ruan-jian-kai-fa-you-duo-gui.html)
 
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
