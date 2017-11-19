@@ -31,6 +31,8 @@
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
 ### 关于常规面试
+[一些简单的面试前的准备](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/chang-gui-mian-shi/mian-shi-qian-de-zhun-bei.html)
+
 [如何搞掂面试压力](https://github.com/lietoumai/Hunter/issues/14)
 
 [你需要问面试官的14个问题](https://github.com/lietoumai/Hunter/issues/20)
@@ -38,7 +40,7 @@
 [重新审视面试-书摘](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhong-xin-kan-dai-mian-shi.html)
 
 ### 关于技术面试
-[面试中如何展示自己](https://github.com/lietoumai/Hunter/issues/10)
+[面试中如何展示自己](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/ru-he-zhun-bei-ji-zhu-mian-shi.html)
 
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
 
