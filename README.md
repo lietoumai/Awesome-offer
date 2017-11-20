@@ -219,6 +219,8 @@
 
 [软件开发有多贵 ](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ruan-jian-kai-fa-you-duo-gui.html)
 
+[Github 对程序员职业生涯的影响](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/githubdui-cheng-xu-yuan-zhi-ye-sheng-ya-de-ying-xiang.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
