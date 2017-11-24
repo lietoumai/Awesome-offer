@@ -273,22 +273,16 @@
 
 ## *精品博客推荐*
 [Yin神](http://www.yinwang.org/)
-渊源：付费咨询过问题，良心价，走过路过都别错过了啊
-
-[Federico Tomassetti](https://tomassetti.me/about-me/)
-渊源：看到一篇还不错的关于NLP的介绍
 
 [鸟哥](http://www.laruence.com/)
-渊源：最早招PHP的时候就知道这位哥哥了
 
 [鳥哥](http://linux.vbird.org/)
-渊源：这个必须有。。。
 
 [登博](http://hedengcheng.com/?p=892)
-渊源：那一年数据库大会坐他后面一排，真是瘦
 
 [霸爷](http://blog.yufeng.info/)
-渊源：那一年数据库大会他是住持。。。
 
 [谢大](https://github.com/astaxie)
-渊源：招Go比较早，时间久了，就熟了。。
+
+[Federico Tomassetti](https://tomassetti.me/about-me/)
+
