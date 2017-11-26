@@ -223,6 +223,8 @@
 
 [Github 对程序员职业生涯的影响](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/githubdui-cheng-xu-yuan-zhi-ye-sheng-ya-de-ying-xiang.html)
 
+[程序员追求的是什么?](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cheng-xu-yuan-zhui-qiu-de-shi-shi-yao-ff1f.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
@@ -287,4 +289,3 @@
 [谢大](https://github.com/astaxie)
 
 [Federico Tomassetti](https://tomassetti.me/about-me/)
-
