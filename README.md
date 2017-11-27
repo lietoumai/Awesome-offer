@@ -52,7 +52,9 @@
 
 [十个有用的面试技巧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/10ge-you-yong-de-mian-shi-ji-qiao.html)
 
-[Facebook面试流程-DBA](http://cenalulu.github.io/mysql/how-i-become-a-facebook-dba/)
+[Facebook面试-DBA](http://cenalulu.github.io/mysql/how-i-become-a-facebook-dba/)
+
+[Google面试大学](https://juejin.im/entry/57fc9ea40bd1d00058d170f9)
 
 [前端面试](https://github.com/jirengu/frontend-interview/issues)
 
