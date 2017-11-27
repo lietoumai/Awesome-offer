@@ -52,6 +52,8 @@
 
 [十个有用的面试技巧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/10ge-you-yong-de-mian-shi-ji-qiao.html)
 
+[Facebook面试流程-DBA](http://cenalulu.github.io/mysql/how-i-become-a-facebook-dba/)
+
 [前端面试](https://github.com/jirengu/frontend-interview/issues)
 
 [Node.Js面试](https://github.com/lietoumai/node-interview-questions)
