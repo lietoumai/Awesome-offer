@@ -269,6 +269,8 @@
 
 [二十七条职场毒鸡汤](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/76er-shi-qi-tiao-zhi-chang-du-ji-tang.html)
 
+[唤醒你的幸福基因](https://github.com/lietoumai/Chicken-Soup/issues/3)
+
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
