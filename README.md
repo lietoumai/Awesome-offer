@@ -167,6 +167,8 @@
 
 [走出舒适区痛苦但值得](https://github.com/lietoumai/Career/issues/20)
 
+[治疗职场寂寞症](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/zhi-liao-zhi-chang-ji-mo-zheng-zhuang.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
