@@ -256,6 +256,8 @@
 ### 人工智能
 [从零学习人工智能](http://blog.jobbole.com/107495/)
 
+[图解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
+
 ## *会有一些鸡汤和反鸡汤*
 [职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
 
