@@ -253,7 +253,7 @@
 
 [基于.Net Core 建造React Web 应用](https://github.com/lietoumai/Front-end/issues/2)
 
-### 人工智能
+### 未来
 [从零学习人工智能](http://blog.jobbole.com/107495/)
 
 [图解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
