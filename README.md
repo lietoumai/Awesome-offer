@@ -13,9 +13,6 @@
 [创业之前（或加入创业公司之前）把“精神问题”想清楚](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/chuang-ye-xu-yao-de-chuang-ye-jing-shen.html)
 
 [如何评估创业公司的价值](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/gong-si-xiang-guan/23ru-he-ping-gu-chuang-ye-gong-si-de-jia-zhi.html)
-
-[你真的适合在创业公司工作么](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/gong-si-xiang-guan/24ni-zhen-de-shi-he-zai-chuang-ye-gong-si-gong-zuo-yao-ff1f.html)
-
      
 ### 关于招聘
 [关于招聘老程序员的招聘建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/guan-yu-lao-cheng-xu-yuan-zhao-pin-he-ying-pin-de-na-dian-shi.html)
@@ -167,8 +164,6 @@
 
 [走出舒适区痛苦但值得](https://github.com/lietoumai/Career/issues/20)
 
-[治疗职场寂寞症](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/zhi-liao-zhi-chang-ji-mo-zheng-zhuang.html)
-
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
@@ -258,6 +253,9 @@
 
 [基于.Net Core 建造React Web 应用](https://github.com/lietoumai/Front-end/issues/2)
 
+### 人工智能
+[从零学习人工智能](http://blog.jobbole.com/107495/)
+
 ## *会有一些鸡汤和反鸡汤*
 [职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
 
@@ -270,8 +268,6 @@
 [学姐说](https://github.com/lietoumai/Chicken-Soup/issues/2)
 
 [二十七条职场毒鸡汤](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/76er-shi-qi-tiao-zhi-chang-du-ji-tang.html)
-
-[唤醒你的幸福基因](https://github.com/lietoumai/Chicken-Soup/issues/3)
 
 ## *会有一些猎头的心得*
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
