@@ -299,6 +299,8 @@
 
 [司徒正美](http://www.cnblogs.com/rubylouvre/)
 
+[MacTalk](http://macshuo.com/)
+
 [Federico Tomassetti](https://tomassetti.me/about-me/)
 
 [Hollis](http://www.hollischuang.com/)
