@@ -297,6 +297,8 @@
 
 [谢大](https://github.com/astaxie)
 
+[司徒正美](http://www.cnblogs.com/rubylouvre/)
+
 [Federico Tomassetti](https://tomassetti.me/about-me/)
 
 [Hollis](http://www.hollischuang.com/)
