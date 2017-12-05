@@ -286,6 +286,10 @@
 ## *会有好书推荐*
 [中文&英文](https://github.com/lietoumai/Book/projects)
 
+## *一言以蔽之*
+[如何给很忙的人写邮件](https://github.com/lietoumai/In-a-word/issues/1)
+***
+
 ## *精品博客推荐*
 [Yin神](http://www.yinwang.org/)
 
