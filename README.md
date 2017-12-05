@@ -301,6 +301,8 @@
 
 [司徒正美](http://www.cnblogs.com/rubylouvre/)
 
+[阮一峰](http://www.ruanyifeng.com/blog/archives.html)
+
 [MacTalk](http://macshuo.com/)
 
 [Federico Tomassetti](https://tomassetti.me/about-me/)
