@@ -164,6 +164,8 @@
 
 [走出舒适区痛苦但值得](https://github.com/lietoumai/Career/issues/20)
 
+[你该如何找到目标？这本身就是个错误的问题](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ni-gai-ru-he-zhao-dao-mu-biao-ff1f-zhe-ben-shen-jiu-shi-ge-cuo-wu-de-wen-ti.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
