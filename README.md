@@ -170,6 +170,8 @@
 
 [提升工作效率五大法](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/ti-sheng-gong-zuo-xiao-lv-5-da-fa.html)
 
+[先技巧，再工具](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/xian-ji-qiao-ff0c-zai-gong-ju.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
