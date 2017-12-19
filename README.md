@@ -315,6 +315,8 @@
 
 [谢大](https://github.com/astaxie)
 
+[大海无量](http://h12.me/)
+
 [司徒正美](http://www.cnblogs.com/rubylouvre/)
 
 [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
