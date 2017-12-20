@@ -172,6 +172,8 @@
 
 [先技巧，再工具](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/xian-ji-qiao-ff0c-zai-gong-ju.html)
 
+[拖沓和完美主义者的思考](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/tuo-ta-he-wan-mei-zhu-yi-zhe-de-si-kao.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
