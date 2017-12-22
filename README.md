@@ -174,6 +174,8 @@
 
 [拖沓和完美主义者的思考](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/tuo-ta-he-wan-mei-zhu-yi-zhe-de-si-kao.html)
 
+[为什么弱连接很重要](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ruo-lian-jie-hen-zhong-yao.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
