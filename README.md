@@ -1,7 +1,7 @@
 # 职位发布，面试技巧相关
 
 ## *关于职位*
-[上海&北京职位-更新至12/19](https://github.com/lietoumai/Hunter/issues/3)
+[上海&北京职位-更新至12/24](https://github.com/lietoumai/Hunter/issues/3)
 ***
 
 ## *求职相关的文章*
@@ -328,6 +328,8 @@
 [云风](https://blog.codingnow.com/)
 
 [民工叔](https://github.com/xufei/blog)
+
+[寒冬](http://winter-cn.cnblogs.com/)
 
 [dirlt](https://dirtysalt.github.io/)
 
