@@ -31,7 +31,7 @@
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
 ### 关于请假
-[总有一款适合您](https://www.douban.com/group/topic/11334776/)
+[总有一款适合您](https://www.douban.com/group/jiekou/)
 
 ### 关于常规面试
 [一些简单的面试前的准备](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/chang-gui-mian-shi/mian-shi-qian-de-zhun-bei.html)
