@@ -248,6 +248,8 @@
 
 [融入开源社区的4个建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/rong-ru-kai-yuan-she-qu-de-4-tiao-jian-yi.html)
 
+[学会学习](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/xue-hui-xue-xi.html)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
