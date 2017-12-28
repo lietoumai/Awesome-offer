@@ -338,6 +338,8 @@
 
 [寒冬](http://winter-cn.cnblogs.com/)
 
+[并发编程](http://ifeve.com/)
+
 [dirlt](https://dirtysalt.github.io/)
 
 [zhuweisky](http://www.cnblogs.com/zhuweisky/)
