@@ -297,6 +297,8 @@
 [王尔德的毒鸡汤](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/77-wang-er-de-de-du-ji-tang.html)
 
 ## *会有一些猎头的心得*
+[猎头行业基础问答](https://github.com/lietoumai/Hunter/issues/39)
+
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
 [如何引起猎头的注意](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.html)
