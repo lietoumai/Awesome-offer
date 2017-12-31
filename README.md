@@ -336,6 +336,8 @@
 
 [云风](https://blog.codingnow.com/)
 
+[唐巧](http://blog.devtang.com/)
+
 [民工叔](https://github.com/xufei/blog)
 
 [寒冬](http://winter-cn.cnblogs.com/)
