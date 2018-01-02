@@ -265,6 +265,8 @@
 
 [作为程序员，这些话你肯定说过](https://github.com/lietoumai/Hunter/issues/32)
 
+[一个老运维的20年奋斗史](https://mp.weixin.qq.com/s/Xv1e1WPhtqdr16ncb4EsMw)
+
 ## *会有一些技术文章*
 ### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
