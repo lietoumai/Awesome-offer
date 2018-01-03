@@ -220,8 +220,6 @@
 
 [如何才能更有效率](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ru-he-cai-neng-geng-you-xiao-lv.html)
 
-[10年编程教会我最重要的10件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/10nian-bian-cheng-jiao-hui-wo-zui-zhong-yao-de-10-jian-shi.html)
-
 [没热情就不够格做程序员么？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/mei-re-qing-jiu-bu-gou-ge-zuo-cheng-xu-yuan-yao-ff1f.html)
 
 [工程师写博客的必要性](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/gong-cheng-shi-xie-bo-ke-de-bi-yao-xing.html)
@@ -254,10 +252,14 @@
 
 [学会学习](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/xue-hui-xue-xi.html)
 
+[编码过程中需尽量避免的 7 条捷径](https://www.oschina.net/translate/7-coding-shortcuts-that-dont-work)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
 [69岁程序员的感悟](https://github.com/lietoumai/Tech-article/issues/9)
+
+[10年编程教会我最重要的10件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/10nian-bian-cheng-jiao-hui-wo-zui-zhong-yao-de-10-jian-shi.html)
 
 [在Google工作十年到底能学到啥](https://github.com/lietoumai/DaLu-Manong-Say/issues/1)
 
