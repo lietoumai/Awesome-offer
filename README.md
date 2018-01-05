@@ -14,6 +14,8 @@
 
 [如何评估创业公司的价值](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/gong-si-xiang-guan/23ru-he-ping-gu-chuang-ye-gong-si-de-jia-zhi.html)
 
+[你适合加入创业公司么](https://github.com/lietoumai/Hunter/issues/41)
+
 [大公司Vs小公司](https://github.com/lietoumai/Hunter/issues/40)
      
 ### 关于招聘
