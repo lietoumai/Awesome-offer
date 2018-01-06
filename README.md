@@ -69,6 +69,9 @@
 
 [后端开发面试题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
+### 关于薪酬
+[穷人or富人？算算你的时薪](https://github.com/lietoumai/Hunter/issues/42)
+
 ### 关于Offer的选择和拒绝
 [如何在众多Offer中做选择](https://github.com/lietoumai/Hunter/issues/7)
 
