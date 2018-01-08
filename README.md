@@ -324,6 +324,9 @@
 ## *会有好书推荐*
 [中文&英文](https://github.com/lietoumai/Book/projects)
 
+## *会有法律相关*
+[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
+
 ## *一言以蔽之*
 [如何给很忙的人写邮件](https://github.com/lietoumai/In-a-word/issues/1)
 ***
