@@ -351,6 +351,8 @@
 
 [司徒正美](http://www.cnblogs.com/rubylouvre/)
 
+[小尤](http://evanyou.me/)
+
 [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
 
 [云风](https://blog.codingnow.com/)
