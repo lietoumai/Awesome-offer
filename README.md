@@ -319,6 +319,9 @@
 
 ## *会有一些读后感*
 [如何做更好的决策](https://github.com/lietoumai/Hunter/issues/2)
+
+[深度工作](https://github.com/lietoumai/In-a-word/issues/2)
+
 ***
 
 ## *会有好书推荐*
