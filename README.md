@@ -294,6 +294,35 @@
 
 [漫画区块链](http://www.sohu.com/a/162764647_673573)
 
+## *会有一些技术论坛*
+[Stack Overflow](http://stackoverflow.com/)
+
+[Reddit](http://www.reddit.com/r/programming)
+
+[Google+ Communities](https://plus.google.com/communities)
+
+[SitePoint](http://www.sitepoint.com/forums/)
+
+[CodeProject](http://www.codeproject.com/)
+
+[Treehouse](https://teamtreehouse.com/forum)
+
+[Hacker News](https://news.ycombinator.com/news)
+
+[DZone](http://www.dzone.com/links/index.html)
+
+[Bytes](http://bytes.com/)
+
+[DaniWeb](http://www.daniweb.com/)
+
+[Dream In Code](http://www.dreamincode.net/forums/)
+
+[Tech.Pro](http://tech.pro/)
+
+[Pineapple](http://pineapple.io/)
+
+[Lobsters](https://lobste.rs/)
+
 ## *会有一些鸡汤和反鸡汤*
 [职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
 
