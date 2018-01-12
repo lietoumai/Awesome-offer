@@ -188,6 +188,8 @@
 
 [为什么弱连接很重要](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ruo-lian-jie-hen-zhong-yao.html)
 
+[为什么人们真正要离开他们的工作](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ren-men-zhen-de-yao-li-kai-ta-men-de-gong-zuo-ff1f.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
