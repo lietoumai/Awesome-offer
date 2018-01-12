@@ -294,6 +294,8 @@
 
 [漫画区块链](http://www.sohu.com/a/162764647_673573)
 
+[区块链学习指南](https://learnblockchain.cn/)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
