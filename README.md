@@ -278,6 +278,8 @@
 
 [一个老运维的20年奋斗史](https://mp.weixin.qq.com/s/Xv1e1WPhtqdr16ncb4EsMw)
 
+[如何与技术人员对话](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ru-he-yu-ji-zhu-ren-yuan-dui-hua.html)
+
 ## *会有一些技术文章*
 ### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
