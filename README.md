@@ -352,6 +352,8 @@
 
 [王尔德的毒鸡汤](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/77-wang-er-de-de-du-ji-tang.html)
 
+[聪明人不会做的十件事](https://github.com/lietoumai/Chicken-Soup/issues/4)
+
 ## *会有一些猎头的心得*
 [猎头行业基础问答](https://github.com/lietoumai/Hunter/issues/39)
 
