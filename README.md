@@ -192,6 +192,8 @@
 
 [为什么人们真正要离开他们的工作](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ren-men-zhen-de-yao-li-kai-ta-men-de-gong-zuo-ff1f.html)
 
+[改善决策的三条建议](https://github.com/lietoumai/Tech-article/issues/18)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
