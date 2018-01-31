@@ -284,6 +284,8 @@
 
 [如何与技术人员对话](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/ru-he-yu-ji-zhu-ren-yuan-dui-hua.html)
 
+[梁胜博士写给程序员的话](https://github.com/lietoumai/Chicken-Soup/issues/5)
+
 ## *会有一些技术文章*
 ### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
