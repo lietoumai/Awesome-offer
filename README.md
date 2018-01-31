@@ -1,7 +1,7 @@
 # 职位发布，面试技巧相关
 
 ## *关于职位*
-[上海&北京&海外职位-更新至1/22](https://github.com/lietoumai/Hunter/issues/3)
+[上海&北京&海外职位-年后差不多也这些，但是有个小巨头可能会有N多职位](https://github.com/lietoumai/Hunter/issues/3)
 ***
 
 ## *求职相关的文章*
