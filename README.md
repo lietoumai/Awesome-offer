@@ -194,6 +194,8 @@
 
 [改善决策的三条建议](https://github.com/lietoumai/Tech-article/issues/18)
 
+[情绪控制七步走](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/qing-xu-kong-zhi-qi-bu-zou.html)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
