@@ -17,6 +17,8 @@
 [你适合加入创业公司么](https://github.com/lietoumai/Hunter/issues/41)
 
 [大公司Vs小公司](https://github.com/lietoumai/Hunter/issues/40)
+
+[一个创业公司是如何倒闭的](https://github.com/lietoumai/Hunter/issues/43)
      
 ### 关于招聘
 [关于招聘老程序员的招聘建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/guan-yu-lao-cheng-xu-yuan-zhao-pin-he-ying-pin-de-na-dian-shi.html)
