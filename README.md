@@ -318,6 +318,8 @@
 
 [区块链学习指南](https://learnblockchain.cn/)
 
+[加密货币和区块链（一）：历史的重演](https://github.com/lietoumai/Tech-article/issues/19)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
