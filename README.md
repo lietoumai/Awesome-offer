@@ -273,6 +273,8 @@
 
 [远程工作这5年](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/yuan-cheng-ban-gong-zhe-5-nian.html)
 
+[如何做技术分享](https://github.com/lietoumai/Hunter/issues/45)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
