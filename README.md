@@ -320,6 +320,11 @@
 
 [加密货币和区块链（一）：历史的重演](https://github.com/lietoumai/Tech-article/issues/19)
 
+[一万字了解密码学（上）](https://www.cnblogs.com/ehcoo/p/6305355.html)
+
+[一万字了解密码学（下）](http://www.ehcoo.com/cryptology1.html)
+
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
