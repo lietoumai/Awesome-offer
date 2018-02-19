@@ -27,6 +27,8 @@
 
 [招聘黑话大全](https://github.com/lietoumai/Hunter/issues/35)
 
+[如何招聘程序员](https://github.com/lietoumai/Hunter/issues/46)
+
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
