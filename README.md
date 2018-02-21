@@ -389,6 +389,9 @@
 [如何引起猎头的注意](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.html)
 ***
 
+[2017总结](https://github.com/lietoumai/Hunter/issues/47)
+***
+
 ## *会有一些读后感*
 [如何做更好的决策](https://github.com/lietoumai/Hunter/issues/2)
 
