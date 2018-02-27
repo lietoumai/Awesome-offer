@@ -1,7 +1,7 @@
 # 职位发布，面试技巧相关
 
 ## *关于职位*
-[想开启新的旅程？点我就是了](http://lietoumai.sxl.cn/)
+[职位发布页](http://lietoumai.sxl.cn/)
 ***
 
 ## *求职相关的文章*
@@ -98,7 +98,7 @@
 ### 关于离职
 [离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
 
-[程序员离职申请范围](https://github.com/lietoumai/Hunter/issues/48)
+[程序员离职申请范文](https://github.com/lietoumai/Hunter/issues/48)
 
 [如何优雅的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/ru-he-you-ya-de-ti-li-zhi.html)
 
