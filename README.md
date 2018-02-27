@@ -98,9 +98,11 @@
 ### 关于离职
 [离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
 
+[程序员离职申请范围](https://github.com/lietoumai/Hunter/issues/48)
+
 [如何优雅的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/ru-he-you-ya-de-ti-li-zhi.html)
 
-[提了离职就要走](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/53ti-le-li-zhi-jiu-yao-zou.html)
+[提了离职就走吧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/53ti-le-li-zhi-jiu-yao-zou.html)
 
 ### 关于入职
 [简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
