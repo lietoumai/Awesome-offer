@@ -208,6 +208,8 @@
 
 [跳槽真的可以保证成功的职业生涯？](https://github.com/lietoumai/Hunter/issues/44)
 
+[学习才是你能成为人生赢家的资本](https://github.com/lietoumai/Career/issues/23)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
