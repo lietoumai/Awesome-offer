@@ -117,7 +117,7 @@
 
 [跳槽真的可以保证成功的职业生涯？](https://github.com/lietoumai/Hunter/issues/44)
 
-[我们为何姚跳槽？](http://www.cnblogs.com/forerunner/p/why-we-quit.html)
+[我们为何要跳槽？](http://www.cnblogs.com/forerunner/p/why-we-quit.html)
 
 ***
 
