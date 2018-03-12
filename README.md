@@ -110,6 +110,17 @@
 [入职新岗位的十条建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/ru-zhi-xin-gang-wei-de-shi-tiao-you-yong-jian-yi.html)
 ***
 
+### 关于跳槽
+[不断跳槽也能成功](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bu-duan-tiao-cao-ye-neng-cheng-gong.html)
+
+[为什么人们真正要离开他们的工作](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ren-men-zhen-de-yao-li-kai-ta-men-de-gong-zuo-ff1f.html)
+
+[跳槽真的可以保证成功的职业生涯？](https://github.com/lietoumai/Hunter/issues/44)
+
+[我们为何姚跳槽？](http://www.cnblogs.com/forerunner/p/why-we-quit.html)
+
+***
+
 ## *会有一些职场指南*
 ### 全行业
 [如何要求加薪](https://github.com/lietoumai/Career/issues/19)
@@ -172,8 +183,6 @@
 
 [信誉比经验更重要](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/xin-yu-bi-jing-yan-geng-zhong-yao.html)
 
-[不断跳槽也能成功](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bu-duan-tiao-cao-ye-neng-cheng-gong.html)
-
 [比起识破谎言，让别人说真话才是真本事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bi-qi-shi-po-huang-yan-ff0c-rang-bie-ren-shuo-zhen-hua-cai-shi-zhen-ben-shi.html)
 
 [好的管理就是别妨碍员工做事情](https://github.com/lietoumai/Hunter/issues/33)
@@ -200,13 +209,9 @@
 
 [为什么弱连接很重要](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ruo-lian-jie-hen-zhong-yao.html)
 
-[为什么人们真正要离开他们的工作](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ren-men-zhen-de-yao-li-kai-ta-men-de-gong-zuo-ff1f.html)
-
 [改善决策的三条建议](https://github.com/lietoumai/Tech-article/issues/18)
 
 [情绪控制七步走](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/qing-xu-kong-zhi-qi-bu-zou.html)
-
-[跳槽真的可以保证成功的职业生涯？](https://github.com/lietoumai/Hunter/issues/44)
 
 [学习才是你能成为人生赢家的资本](https://github.com/lietoumai/Career/issues/23)
 
