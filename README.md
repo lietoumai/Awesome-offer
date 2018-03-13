@@ -113,7 +113,7 @@
 ### 关于跳槽
 [不断跳槽也能成功](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bu-duan-tiao-cao-ye-neng-cheng-gong.html)
 
-[为什么人们真正要离开他们的工作](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ren-men-zhen-de-yao-li-kai-ta-men-de-gong-zuo-ff1f.html)
+[人们真正要离开他们的工作的原因是什么](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wei-shi-yao-ren-men-zhen-de-yao-li-kai-ta-men-de-gong-zuo-ff1f.html)
 
 [跳槽真的可以保证成功的职业生涯？](https://github.com/lietoumai/Hunter/issues/44)
 
