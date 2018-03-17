@@ -417,6 +417,8 @@
 ## *一言以蔽之*
 [如何给很忙的人写邮件](https://github.com/lietoumai/In-a-word/issues/1)
 
+[深度学习这本书到底在说啥](https://github.com/lietoumai/In-a-word/issues/2)
+
 ## *奇文共赏*
 [五四运动造就的识字农民才是这么多热点事件的根源](https://github.com/lietoumai/Spectacular-article/issues/1)
 ***
