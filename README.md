@@ -102,6 +102,8 @@
 
 [如何优雅的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/ru-he-you-ya-de-ti-li-zhi.html)
 
+[如何得体的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/ru-he-zhuang-bing.html)
+
 [提了离职就走吧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/53ti-le-li-zhi-jiu-yao-zou.html)
 
 ### 关于入职
