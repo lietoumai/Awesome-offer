@@ -378,7 +378,7 @@
 
 [Techcrunch](https://techcrunch.com/)
 
-[BookDownload](www.allitebooks.com)
+[BookDownload](https://www.allitebooks.com)
 
 ## *会有一些鸡汤和反鸡汤*
 [职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
