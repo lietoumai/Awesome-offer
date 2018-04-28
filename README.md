@@ -220,6 +220,8 @@
 
 [学习才是你能成为人生赢家的资本](https://github.com/lietoumai/Career/issues/23)
 
+[照这样规划职业生涯，真的可能会赚翻](https://github.com/lietoumai/Career/issues/24)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
