@@ -222,6 +222,8 @@
 
 [照这样规划职业生涯，真的可能会赚翻](https://github.com/lietoumai/Career/issues/24)
 
+[一旦走进误区，所谓时间管理就是在浪费时间](https://github.com/lietoumai/Career/issues/25)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
