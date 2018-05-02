@@ -224,6 +224,8 @@
 
 [一旦走进误区，所谓时间管理就是在浪费时间](https://github.com/lietoumai/Career/issues/25)
 
+[掌握这6个原则，你的说服力就可以提升30%](https://github.com/lietoumai/Career/issues/26)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
