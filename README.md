@@ -57,6 +57,8 @@
 
 [你为什么需要在下一次技术公司的面试中问问题？](https://github.com/lietoumai/Hunter/issues/21)
 
+[技术面试之前你需要准备的](https://github.com/lietoumai/awesome-offer/issues/51)
+
 [我最喜欢问应聘者的问题 & 回答思路](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wo-zui-xi-huan-wen-ying-pin-zhe-de-wen-ti-and-hui-da-si-lu.html)
 
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
