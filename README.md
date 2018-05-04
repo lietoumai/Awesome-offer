@@ -332,6 +332,8 @@
 
 [为什么动态类型语言相对比较慢？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/wei-shi-yao-dong-tai-lei-xing-yu-yan-xiang-dui-bi-jiao-man-ff1f.html)
 
+[Memcached vs Redis, 挑选哪一个？](https://github.com/lietoumai/Tech-article/issues/20)
+
 ### 前端
 [浅谈Web自适应](https://github.com/lietoumai/Front-end/issues/1)
 
