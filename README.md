@@ -97,6 +97,8 @@
 
 [你真正想要在工作中得到什么](https://github.com/lietoumai/Hunter/issues/17)
 
+[为什么有了offer再去谈offer会更好？](https://github.com/lietoumai/awesome-offer/issues/52)
+
 ### 关于离职
 [离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
 
