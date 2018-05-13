@@ -325,6 +325,9 @@
 [梁胜博士写给程序员的话](https://github.com/lietoumai/Chicken-Soup/issues/5)
 
 ## *会有一些技术文章*
+### 算法
+[算法（英文）](https://algs4.cs.princeton.edu/home/)
+
 ### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
 
