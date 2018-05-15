@@ -339,6 +339,8 @@
 
 [Memcached vs Redis, 挑选哪一个？](https://github.com/lietoumai/Tech-article/issues/20)
 
+[阿里巴巴Java开发手册](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/Java_1512024443940.pdf)
+
 ### 前端
 [浅谈Web自适应](https://github.com/lietoumai/Front-end/issues/1)
 
