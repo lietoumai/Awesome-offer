@@ -235,6 +235,8 @@
 
 [无我编程的十条戒律](https://github.com/lietoumai/Tech-article/issues/2)
 
+[最牛逼的编码套路](https://blog.csdn.net/happydeer/article/details/17023229)
+
 [程序员职业倦怠](https://github.com/lietoumai/Tech-article/issues/3)
 
 [程序员生涯第一生存法则](https://github.com/lietoumai/Tech-article/issues/4)
