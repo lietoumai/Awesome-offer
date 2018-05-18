@@ -488,7 +488,7 @@
 
 [Hollis](http://www.hollischuang.com/)
 
-## *关于职位*
+## *关于目前在招的职位*
 [职位发布页](http://lietoumai.sxl.cn/)
 
 ***
