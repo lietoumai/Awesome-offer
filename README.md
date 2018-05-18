@@ -1,9 +1,5 @@
 # 职位发布&求职相关
 
-## *关于职位*
-[职位发布页](http://lietoumai.sxl.cn/)
-***
-
 ## *求职相关的文章*
 ### 关于公司
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
@@ -491,3 +487,8 @@
 [Federico Tomassetti](https://tomassetti.me/about-me/)
 
 [Hollis](http://www.hollischuang.com/)
+
+## *关于职位*
+[职位发布页](http://lietoumai.sxl.cn/)
+
+***
