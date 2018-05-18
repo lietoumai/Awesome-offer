@@ -491,4 +491,6 @@
 ## *关于目前在招的职位*
 [职位发布页](http://lietoumai.sxl.cn/)
 
+[点我微信交流](https://user-images.githubusercontent.com/13960647/40213713-79d6f76c-5a89-11e8-9e90-387e9016e241.jpg)
+
 ***
