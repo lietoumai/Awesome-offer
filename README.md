@@ -361,6 +361,7 @@
 
 [一万字了解密码学（下）](http://www.ehcoo.com/cryptology1.html)
 
+[区块链六大核心算法](https://github.com/lietoumai/Tech-article/issues/21)
 
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
