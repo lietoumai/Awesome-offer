@@ -226,6 +226,8 @@
 
 [掌握这6个原则，你的说服力就可以提升30%](https://github.com/lietoumai/Career/issues/26)
 
+[自动化将使终生学习成为工作的必要部分](https://github.com/lietoumai/Career/issues/27)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
