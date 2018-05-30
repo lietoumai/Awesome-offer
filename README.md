@@ -231,6 +231,8 @@
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
+[程序员技术练级攻略](https://coolshell.cn/articles/4990.html)
+
 [无我编程的十条戒律](https://github.com/lietoumai/Tech-article/issues/2)
 
 [最牛逼的编码套路](https://blog.csdn.net/happydeer/article/details/17023229)
