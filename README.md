@@ -1,5 +1,3 @@
-# 职位发布&求职相关
-
 ## *求职相关的文章*
 ### 关于公司
 [选择公司十问](https://github.com/lietoumai/Hunter/issues/1)
@@ -183,6 +181,8 @@
 [生活中应该了解的事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/sheng-huo-zhong-ying-gai-le-jie-de-yi-xie-shi.html)
 
 [感谢那些讲话难听的人](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gan-xie-na-xie-jiang-hua-nan-ting-de-ren.html)
+
+[为什么做员工挺出色，做领导就很糟糕？](https://github.com/lietoumai/Career/issues/28)
 
 [作为自由职业者，你必须知道的20个赢利原则](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/zuo-wei-zi-you-zhi-ye-zhe-ff0c-ni-bi-xu-zhi-dao-de-20-ge-ying-li-yuan-ze.html)
 
