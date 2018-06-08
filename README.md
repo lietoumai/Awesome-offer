@@ -307,6 +307,8 @@
 
 [如何做技术分享](https://github.com/lietoumai/Hunter/issues/45)
 
+[Java就业指导](https://blog.csdn.net/jackfrued/article/details/45035097)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
