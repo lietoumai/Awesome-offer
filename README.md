@@ -307,6 +307,8 @@
 
 [如何做技术分享](https://github.com/lietoumai/Hunter/issues/45)
 
+[写好代码的十个技巧](https://github.com/lietoumai/Tech-article/issues/22)
+
 [Java就业指导](https://blog.csdn.net/jackfrued/article/details/45035097)
 
 ## *会有一些程序员感悟*
