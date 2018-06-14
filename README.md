@@ -297,6 +297,8 @@
 
 [如何参与一个Github的开源项目](https://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub)
 
+[git &github 快速入门](https://www.cnblogs.com/zero-white/p/8698750.html)
+
 [融入开源社区的4个建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/rong-ru-kai-yuan-she-qu-de-4-tiao-jian-yi.html)
 
 [学会学习](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/xue-hui-xue-xi.html)
