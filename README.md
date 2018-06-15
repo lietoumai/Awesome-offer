@@ -93,6 +93,8 @@
 
 [为什么有了offer再去谈offer会更好？](https://github.com/lietoumai/awesome-offer/issues/52)
 
+[关于试用期打折](https://github.com/lietoumai/Career/issues/29)
+
 ### 关于离职
 [离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
 
