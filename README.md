@@ -338,6 +338,8 @@
 ### 算法
 [算法（英文）](https://algs4.cs.princeton.edu/home/)
 
+[一致性算法Raft详解](http://www.solinx.co/archives/415)
+
 ### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
 
