@@ -495,6 +495,8 @@
 
 [并发编程](http://ifeve.com/)
 
+[HuiHui](http://www.cnblogs.com/yanghuahui/)
+
 [CSDN的博客专家们](https://blog.csdn.net/honour/experts.html)
 
 [dirlt](https://dirtysalt.github.io/)
