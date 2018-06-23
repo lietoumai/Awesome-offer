@@ -230,6 +230,8 @@
 
 [自动化将使终生学习成为工作的必要部分](https://github.com/lietoumai/Career/issues/27)
 
+[进入工作倦怠期？试试重塑工作，变“废”为宝](https://github.com/lietoumai/Career/issues/30)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
