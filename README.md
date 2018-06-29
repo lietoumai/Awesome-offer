@@ -337,10 +337,12 @@
 [梁胜博士写给程序员的话](https://github.com/lietoumai/Chicken-Soup/issues/5)
 
 ## *会有一些技术文章*
-### 算法
+### 算法&大数据
 [算法（英文）](https://algs4.cs.princeton.edu/home/)
 
 [一致性算法Raft详解](http://www.solinx.co/archives/415)
+
+[史上最全大数据学习资源](https://yq.aliyun.com/articles/37308)
 
 ### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
