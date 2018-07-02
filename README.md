@@ -362,7 +362,7 @@
 
 [基于.Net Core 建造React Web 应用](https://github.com/lietoumai/Front-end/issues/2)
 
-### 未来
+### 科普&未来
 [从零学习人工智能](http://blog.jobbole.com/107495/)
 
 [图解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
@@ -378,6 +378,8 @@
 [一万字了解密码学（下）](http://www.ehcoo.com/cryptology1.html)
 
 [区块链六大核心算法](https://github.com/lietoumai/Tech-article/issues/21)
+
+[小白看懂云计算，大数据，人工智能](https://www.cnblogs.com/popsuper1982/p/8505203.html)
 
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
