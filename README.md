@@ -232,6 +232,8 @@
 
 [进入工作倦怠期？试试重塑工作，变“废”为宝](https://github.com/lietoumai/Career/issues/30)
 
+[柳传志的复盘论](https://github.com/lietoumai/Career/issues/31)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
