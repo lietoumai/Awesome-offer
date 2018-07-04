@@ -95,6 +95,8 @@
 
 [关于试用期打折](https://github.com/lietoumai/Career/issues/29)
 
+[创业公司的offer到底接不接？](https://github.com/lietoumai/awesome-offer/issues/54)
+
 ### 关于离职
 [离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
 
