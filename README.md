@@ -23,6 +23,8 @@
 
 [如何招聘程序员](https://github.com/lietoumai/Hunter/issues/46)
 
+[雇主招程序员时，看中哪些核心竞争力？](https://github.com/lietoumai/Career/issues/32)
+
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
