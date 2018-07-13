@@ -387,6 +387,8 @@
 
 [小白看懂云计算，大数据，人工智能](https://www.cnblogs.com/popsuper1982/p/8505203.html)
 
+[量子计算入门](https://blog.csdn.net/libing403/article/details/73555583)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
