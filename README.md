@@ -238,6 +238,8 @@
 
 [柳传志的复盘论](https://github.com/lietoumai/Career/issues/31)
 
+[让你止步不前的不是舒适，而是服从](https://github.com/lietoumai/Career/issues/33)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
