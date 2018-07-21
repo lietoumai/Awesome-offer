@@ -369,6 +369,8 @@
 
 [从java 到 kotlin，再从kotlin到java](https://www.oschina.net/translate/from-java-to-kotlin-and-back-again?lang=chs&p=1)
 
+[比较 Rust 和 Java](https://www.oschina.net/translate/comparing-rust-and-java)
+
 ### 前端
 [浅谈Web自适应](https://github.com/lietoumai/Front-end/issues/1)
 
