@@ -34,7 +34,8 @@
 
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
-[去了解你的推荐人](https://github.com/lietoumai/To-be-a-Pythoneer/issues/160)
+### 关于推荐
+[粗谈推荐人](https://github.com/lietoumai/To-be-a-Pythoneer/issues/160)
 
 ### 关于请假
 [总有一款适合您](https://www.douban.com/group/jiekou/)
