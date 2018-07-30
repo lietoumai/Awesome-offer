@@ -80,6 +80,8 @@
 
 [一些Java面试题](http://jasonlife.top/2017/11/16/26Java%E9%9D%A2%E8%AF%95%E9%A2%98/)
 
+[区块链面试宝典](https://chrislinn.gitbooks.io/blockchain-cheatsheet/content/)
+
 ### 关于薪酬
 [穷人or富人？算算你的时薪](https://github.com/lietoumai/Hunter/issues/42)
 
