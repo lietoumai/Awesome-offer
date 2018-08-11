@@ -245,6 +245,8 @@
 
 [让你止步不前的不是舒适，而是服从](https://github.com/lietoumai/Career/issues/33)
 
+[灰度决策：如何处理复杂、棘手、高风险的难题](https://github.com/lietoumai/Career/issues/34)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
