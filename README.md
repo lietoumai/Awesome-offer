@@ -404,6 +404,8 @@
 
 [量子计算入门](https://blog.csdn.net/libing403/article/details/73555583)
 
+[将任意文件写入以太坊区块的方法](https://www.cnblogs.com/zdz8207/p/qkl-eth-event.html)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
