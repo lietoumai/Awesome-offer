@@ -247,6 +247,8 @@
 
 [灰度决策：如何处理复杂、棘手、高风险的难题](https://github.com/lietoumai/Career/issues/34)
 
+[顶撞上司四条原则](https://github.com/lietoumai/Career/issues/35)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
