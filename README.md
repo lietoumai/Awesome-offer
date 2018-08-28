@@ -380,11 +380,6 @@
 
 [比较 Rust 和 Java](https://www.oschina.net/translate/comparing-rust-and-java)
 
-### 前端
-[浅谈Web自适应](https://github.com/lietoumai/Front-end/issues/1)
-
-[基于.Net Core 建造React Web 应用](https://github.com/lietoumai/Front-end/issues/2)
-
 ### 科普&未来
 [从零学习人工智能](http://blog.jobbole.com/107495/)
 
