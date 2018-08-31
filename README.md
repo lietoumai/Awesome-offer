@@ -249,6 +249,8 @@
 
 [顶撞上司四条原则](https://github.com/lietoumai/Career/issues/35)
 
+[如果工作不是为了名利，那是为了什么？](https://github.com/lietoumai/Career/issues/36)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
