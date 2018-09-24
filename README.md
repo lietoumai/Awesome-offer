@@ -255,6 +255,8 @@
 
 [如果工作不是为了名利，那是为了什么？](https://github.com/lietoumai/Career/issues/36)
 
+[提高情商的十条建议](https://github.com/lietoumai/Career/issues/39)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
