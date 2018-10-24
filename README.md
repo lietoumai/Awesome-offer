@@ -257,6 +257,8 @@
 
 [提高情商的十条建议](https://github.com/lietoumai/Career/issues/39)
 
+[在加薪这件事上，能帮你的只有你自己](https://github.com/lietoumai/Career/issues/40)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
