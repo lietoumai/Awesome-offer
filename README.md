@@ -415,6 +415,8 @@
 
 [将任意文件写入以太坊区块的方法](https://www.cnblogs.com/zdz8207/p/qkl-eth-event.html)
 
+[我为什么用GO语言来做区块链？](https://github.com/lietoumai/Tech-article/issues/23)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
