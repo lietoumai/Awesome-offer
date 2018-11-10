@@ -124,6 +124,8 @@
 
 [大公司是如何评定程序员的能力的](https://github.com/lietoumai/Hunter/issues/50)
 
+[一些越早知道越好的小事](https://github.com/lietoumai/Reflection/issues/65)
+
 ***
 
 ### 关于跳槽
