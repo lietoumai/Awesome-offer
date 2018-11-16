@@ -419,6 +419,8 @@
 
 [我为什么用GO语言来做区块链？](https://github.com/lietoumai/Tech-article/issues/23)
 
+[以数据库思维理解区块链](https://www.cnblogs.com/zourui4271/p/8969621.html)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
