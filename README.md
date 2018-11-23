@@ -394,6 +394,8 @@
 
 [Go语言成功了，Rust呢？](https://rust.cc/article/ff06e58b-fee3-4a07-aa91-1ba286e46478?parent_url=https%3A%2F%2Frust.cc%2Fsection%2Fc2511921-51f7-401f-a0c0-d3abcfa0631c)
 
+[Go项目汇总](http://www.cnblogs.com/kaid/p/9698615.html)
+
 ### 科普&未来
 [从零学习人工智能](http://blog.jobbole.com/107495/)
 
