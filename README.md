@@ -542,6 +542,8 @@
 
 [夏天的森林](http://www.cnblogs.com/sharpxiajun/archive/2015/02.html)
 
+[hsm_computer](https://www.cnblogs.com/JavaArchitect)
+
 [HuiHui](http://www.cnblogs.com/yanghuahui/)
 
 [CSDN的博客专家们](https://blog.csdn.net/honour/experts.html)
