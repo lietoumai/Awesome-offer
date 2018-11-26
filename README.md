@@ -60,6 +60,8 @@
 
 [我最喜欢问应聘者的问题 & 回答思路](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wo-zui-xi-huan-wen-ying-pin-zhe-de-wen-ti-and-hui-da-si-lu.html)
 
+[如何在面试中介绍自己的项目经验](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/zai-mian-shi-zhong-ru-he-jie-shao-xiang-mu-jing-li.html)
+
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
 
 [十个有用的面试技巧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/10ge-you-yong-de-mian-shi-ji-qiao.html)
