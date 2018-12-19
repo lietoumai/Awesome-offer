@@ -429,6 +429,8 @@
 
 [以数据库思维理解区块链](https://www.cnblogs.com/zourui4271/p/8969621.html)
 
+[什么是边缘计算](https://blog.csdn.net/gui951753/article/details/80952907)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
