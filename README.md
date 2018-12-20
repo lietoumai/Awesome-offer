@@ -139,6 +139,9 @@
 
 [我们为何要跳槽？](http://www.cnblogs.com/forerunner/p/why-we-quit.html)
 
+### 关于裁员
+[裁员后三大最常见心理创伤](https://github.com/lietoumai/Career/issues/41)
+
 ***
 
 ## *会有一些职场指南*
