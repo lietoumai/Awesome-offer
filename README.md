@@ -140,6 +140,8 @@
 ### 关于裁员
 [裁员后三大最常见心理创伤](https://github.com/lietoumai/Career/issues/41)
 
+[当裁员潮来临时，如何跟HR做好最后一轮谈判？](https://github.com/lietoumai/Career/issues/42)
+
 ***
 
 ## *会有一些职场指南*
