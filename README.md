@@ -355,6 +355,8 @@
 
 [从零开始搭建创业公司后台技术栈](https://www.sruibox.com/article/45)
 
+[正念如何帮助工程师解决问题](https://github.com/lietoumai/Career/issues/44)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
