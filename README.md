@@ -117,6 +117,8 @@
 
 [提了离职就走吧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/53ti-le-li-zhi-jiu-yao-zou.html)
 
+[如何离开你所热爱的工作](https://github.com/lietoumai/Career/issues/45)
+
 ### 关于入职
 [简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
 
