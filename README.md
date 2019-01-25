@@ -533,6 +533,8 @@
 
 [霸爷](http://blog.yufeng.info/)
 
+[林德熙](https://lindexi.gitee.io/lindexi/)
+
 [谢大](https://github.com/astaxie)
 
 [大海无量](https://h12.io/)
