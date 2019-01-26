@@ -522,6 +522,9 @@
 
 [如何掌控人生－掌控你的注意力](https://github.com/lietoumai/In-a-word/issues/3)
 
+## *全球商学院*
+[哈佛商学院](https://hbr.org/)
+
 ## *精品博客推荐*
 [Yin神](http://www.yinwang.org/)
 
