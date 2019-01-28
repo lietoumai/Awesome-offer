@@ -531,6 +531,8 @@
 
 [斯隆管理学院](http://mitsloan.mit.edu/)
 
+[Insead](https://knowledge.insead.edu/)
+
 [CNBC](https://www.cnbc.com/make-it/)
 
 ## *精品博客推荐*
