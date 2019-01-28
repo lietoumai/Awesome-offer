@@ -531,6 +531,10 @@
 
 [斯隆管理学院](http://mitsloan.mit.edu/)
 
+[剑桥商学院](https://insight.jbs.cam.ac.uk/)
+
+[牛津商学院](https://www.sbs.ox.ac.uk/news）
+
 [Insead](https://knowledge.insead.edu/)
 
 [IMD](https://www.imd.org/research-knowledge/)
