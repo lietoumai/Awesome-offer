@@ -533,6 +533,8 @@
 
 [Insead](https://knowledge.insead.edu/)
 
+[IMD](https://www.imd.org/research-knowledge/)
+
 [CNBC](https://www.cnbc.com/make-it/)
 
 ## *精品博客推荐*
