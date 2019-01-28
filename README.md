@@ -522,7 +522,7 @@
 
 [如何掌控人生－掌控你的注意力](https://github.com/lietoumai/In-a-word/issues/3)
 
-## *全球商学院*
+## *Insight*
 [哈佛商学院](https://hbr.org/)
 
 [布斯商学院](http://review.chicagobooth.edu/)
@@ -531,6 +531,7 @@
 
 [斯隆管理学院](http://mitsloan.mit.edu/)
 
+[CNBC](https://www.cnbc.com/make-it/)
 
 ## *精品博客推荐*
 [Yin神](http://www.yinwang.org/)
