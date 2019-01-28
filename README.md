@@ -525,6 +525,13 @@
 ## *全球商学院*
 [哈佛商学院](https://hbr.org/)
 
+[布斯商学院](http://review.chicagobooth.edu/)
+
+[斯坦福商学院](https://www.gsb.stanford.edu/insights)
+
+[斯隆管理学院](http://mitsloan.mit.edu/)
+
+
 ## *精品博客推荐*
 [Yin神](http://www.yinwang.org/)
 
