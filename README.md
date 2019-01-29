@@ -430,8 +430,6 @@
 
 [小白看懂云计算，大数据，人工智能](https://www.cnblogs.com/popsuper1982/p/8505203.html)
 
-[量子计算入门](https://blog.csdn.net/libing403/article/details/73555583)
-
 [将任意文件写入以太坊区块的方法](https://www.cnblogs.com/zdz8207/p/qkl-eth-event.html)
 
 [我为什么用GO语言来做区块链？](https://github.com/lietoumai/Tech-article/issues/23)
@@ -439,6 +437,10 @@
 [以数据库思维理解区块链](https://www.cnblogs.com/zourui4271/p/8969621.html)
 
 [什么是边缘计算](https://blog.csdn.net/gui951753/article/details/80952907)
+
+[量子计算入门](https://blog.csdn.net/libing403/article/details/73555583)
+
+[量子客](https://www.qtumist.com/)
 
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
