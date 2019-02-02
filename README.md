@@ -270,6 +270,8 @@
 
 [如何停止过度思考](https://github.com/lietoumai/Career/issues/43)
 
+[YC主席的十三条成功建议](https://github.com/lietoumai/Awesome-offer/issues/55)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
