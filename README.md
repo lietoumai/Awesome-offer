@@ -272,6 +272,8 @@
 
 [YC主席的十三条成功建议](https://github.com/lietoumai/Awesome-offer/issues/55)
 
+[谈一点克服焦虑的心得](http://101.132.135.58:8080/article/8)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
