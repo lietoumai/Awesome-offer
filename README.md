@@ -446,6 +446,8 @@
 
 [量子客](https://www.qtumist.com/)
 
+[神经网络与深度学习](https://nndl.github.io/)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
