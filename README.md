@@ -545,7 +545,7 @@
 
 [剑桥商学院](https://insight.jbs.cam.ac.uk/)
 
-[牛津商学院](https://www.sbs.ox.ac.uk/news）
+[牛津商学院](https://www.sbs.ox.ac.uk/news/)
 
 [Insead](https://knowledge.insead.edu/)
 
