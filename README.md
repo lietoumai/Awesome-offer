@@ -126,7 +126,7 @@
 
 [程序员如何尽快融入新团队](https://github.com/lietoumai/Hunter/issues/50)
 
-[一些越早知道越好的小事](https://github.com/lietoumai/Reflection/issues/65)
+[一些入职越早知道越好的小事](https://github.com/lietoumai/Reflection/issues/65)
 
 ### 关于跳槽
 [不断跳槽也能成功](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bu-duan-tiao-cao-ye-neng-cheng-gong.html)
