@@ -420,6 +420,8 @@
 
 [图解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
+[如何自学机器学习](https://elitedatascience.com/learn-machine-learning#what)
+
 [漫画区块链](http://www.sohu.com/a/162764647_673573)
 
 [区块链学习指南](https://learnblockchain.cn/)
