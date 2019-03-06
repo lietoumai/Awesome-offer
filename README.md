@@ -453,6 +453,8 @@
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
+[Elitedatascience](https://elitedatascience.com/)
+
 [Reddit](http://www.reddit.com/r/programming)
 
 [Google+ Communities](https://plus.google.com/communities)
