@@ -142,6 +142,8 @@
 
 [当裁员潮来临时，如何跟HR做好最后一轮谈判？](https://github.com/lietoumai/Career/issues/42)
 
+[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
+
 ***
 
 ## *会有一些职场指南*
@@ -361,6 +363,8 @@
 
 [正念如何帮助工程师解决问题](https://github.com/lietoumai/Career/issues/44)
 
+[Apache顶级开源项目是怎样炼成的？](http://www.sohu.com/a/270412996_355140)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
@@ -523,8 +527,6 @@
 [中文&英文](https://github.com/lietoumai/Book/projects)
 
 ## *会有法律相关*
-[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
-
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
 
 ## *一言以蔽之*
