@@ -384,6 +384,8 @@
 
 [梁胜博士写给程序员的话](https://github.com/lietoumai/Chicken-Soup/issues/5)
 
+[技术编程人员成长的9个段位](https://www.flysnow.org/2019/01/21/development-growth-nine-segments.html)
+
 ## *会有一些技术文章*
 ### 算法&大数据
 [算法（英文）](https://algs4.cs.princeton.edu/home/)
