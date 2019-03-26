@@ -594,6 +594,8 @@
 
 [hsm_computer](https://www.cnblogs.com/JavaArchitect)
 
+[Tony Bai](https://tonybai.com/)
+
 [HuiHui](http://www.cnblogs.com/yanghuahui/)
 
 [CSDN的博客专家们](https://blog.csdn.net/honour/experts.html)
