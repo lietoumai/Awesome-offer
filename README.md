@@ -49,9 +49,9 @@
 
 [重新审视面试-书摘](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhong-xin-kan-dai-mian-shi.html)
 
+### 关于技术面试
 [算法面试巩固](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms)
 
-### 关于技术面试
 [面试中如何展示自己](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/ru-he-zhun-bei-ji-zhu-mian-shi.html)
 
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
