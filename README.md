@@ -594,6 +594,8 @@
 
 [并发编程](http://ifeve.com/)
 
+[A闪](https://ashan.org/)
+
 [夏天的森林](http://www.cnblogs.com/sharpxiajun/archive/2015/02.html)
 
 [hsm_computer](https://www.cnblogs.com/JavaArchitect)
