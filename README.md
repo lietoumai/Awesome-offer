@@ -463,6 +463,8 @@
 
 [Elitedatascience](https://elitedatascience.com/)
 
+[Dzone](https://dzone.com/)
+
 [Reddit](http://www.reddit.com/r/programming)
 
 [Google+ Communities](https://plus.google.com/communities)
