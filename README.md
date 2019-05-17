@@ -367,6 +367,8 @@
 
 [Apache顶级开源项目是怎样炼成的？](http://www.sohu.com/a/270412996_355140)
 
+[提高代码阅读能力的7种方法](https://github.com/lietoumai/Awesome-offer/issues/57)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
