@@ -52,6 +52,8 @@
 ### 关于技术面试
 [算法面试巩固](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms)
 
+[为工程师准备的 50 道数据结构和算法面试题](https://github.com/lietoumai/Awesome-offer/issues/58)
+
 [面试中如何展示自己](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/ru-he-zhun-bei-ji-zhu-mian-shi.html)
 
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
