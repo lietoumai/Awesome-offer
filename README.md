@@ -289,6 +289,8 @@
 
 [程序员职业倦怠](https://github.com/lietoumai/Tech-article/issues/3)
 
+[跟着书籍学编程的5个小技巧](https://github.com/lietoumai/Awesome-offer/issues/59)
+
 [程序员生涯第一生存法则](https://github.com/lietoumai/Tech-article/issues/4)
 
 [自学的程序员如何找到好工作](https://github.com/lietoumai/Tech-article/issues/5)
