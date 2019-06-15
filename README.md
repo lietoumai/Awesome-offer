@@ -526,6 +526,9 @@
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
 [如何引起猎头的注意](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.html)
+
+[新经济环境下的顾问生存之道](http://lietoumai.com/article/13)
+
 ***
 
 ## *会有一些读后感*
