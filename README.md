@@ -402,6 +402,8 @@
 
 [一致性算法Raft详解](http://www.solinx.co/archives/415)
 
+[图解Raft](http://thesecretlivesofdata.com/raft/)
+
 [史上最全大数据学习资源](https://yq.aliyun.com/articles/37308)
 
 ### 后端
