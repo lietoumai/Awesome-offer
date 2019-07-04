@@ -468,6 +468,8 @@
 
 [神经网络与深度学习](https://nndl.github.io/)
 
+[Serverless 应用开发指南](https://serverless.ink/)
+
 ## *会有一些技术论坛*
 [Stack Overflow](http://stackoverflow.com/)
 
