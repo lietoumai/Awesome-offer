@@ -613,6 +613,8 @@
 
 [A闪](https://ashan.org/)
 
+[Se7en](https://se7en.wang/2018/10/08/how-i-gain-tech-news/)
+
 [夏天的森林](http://www.cnblogs.com/sharpxiajun/archive/2015/02.html)
 
 [hsm_computer](https://www.cnblogs.com/JavaArchitect)
