@@ -123,6 +123,8 @@
 
 [如何离开你所热爱的工作](https://github.com/lietoumai/Career/issues/45)
 
+[除了投简历，离职期间还能做点什么](http://lietoumai.com/article/19)
+
 ### 关于入职
 [简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
 
