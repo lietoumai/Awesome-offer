@@ -351,6 +351,8 @@
 
 [程序员追求的是什么?](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cheng-xu-yuan-zhui-qiu-de-shi-shi-yao-ff1f.html)
 
+[每个程序员都应该读两遍的十篇论文](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+
 [如何参与一个Github的开源项目](https://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub)
 
 [git &github 快速入门](https://www.cnblogs.com/zero-white/p/8698750.html)
