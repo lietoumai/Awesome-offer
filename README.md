@@ -379,6 +379,8 @@
 
 [提高代码阅读能力的7种方法](https://github.com/lietoumai/Awesome-offer/issues/57)
 
+[了解开源文化](http://osteach.github.io/)
+
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
 
