@@ -550,8 +550,10 @@
 
 ***
 
-## *会有好书推荐*
+## *会有好书&免费书推荐*
 [中文&英文](https://github.com/lietoumai/Book/projects)
+
+[周读](http://www.ireadweek.com/)
 
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
