@@ -555,6 +555,8 @@
 
 [周读](http://www.ireadweek.com/)
 
+[Kindel电子书分享](https://kindle.51nazhun.pub/)
+
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
 
