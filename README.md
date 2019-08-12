@@ -505,6 +505,8 @@
 
 [Tech.Pro](http://tech.pro/)
 
+[Code project](https://www.codeproject.com/)
+
 [Pineapple](http://pineapple.io/)
 
 [Lobsters](https://lobste.rs/)
