@@ -477,6 +477,8 @@
 [Serverless 应用开发指南](https://serverless.ink/)
 
 ## *会有一些技术论坛*
+[Twitter](https://twitter.com/home)
+
 [Stack Overflow](http://stackoverflow.com/)
 
 [Elitedatascience](https://elitedatascience.com/)
@@ -488,8 +490,6 @@
 [Google+ Communities](https://plus.google.com/communities)
 
 [SitePoint](http://www.sitepoint.com/forums/)
-
-[CodeProject](http://www.codeproject.com/)
 
 [Treehouse](https://teamtreehouse.com/forum)
 
