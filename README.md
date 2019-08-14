@@ -521,6 +521,8 @@
 
 ## *会有一些海外求职网站*
 
+[Linkedin](https://www.linkedin.com)
+
 [Glassdoor](https://www.glassdoor.com/index.html)
 
 [Monster](https://www.monster.com/jobs/)
