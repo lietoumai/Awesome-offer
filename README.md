@@ -527,6 +527,8 @@
 
 [Monster](https://www.monster.com/jobs/)
 
+[Dice](https://www.dice.com)
+
 [Indeed](https://cn.indeed.com/?r=us)
 
 [Simplyhired](https://www.simplyhired.com/)
