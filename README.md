@@ -527,6 +527,8 @@
 
 [Monster](https://www.monster.com/jobs/)
 
+[Reed](https://www.reed.co.uk/)
+
 [Dice](https://www.dice.com)
 
 [Indeed](https://cn.indeed.com/?r=us)
