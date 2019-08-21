@@ -519,7 +519,7 @@
 
 [programcreek](https://www.programcreek.com/)
 
-## *会有一些海外求职网站*
+## *会有一些海外招聘网站*
 
 [Linkedin](https://www.linkedin.com)
 
@@ -528,6 +528,8 @@
 [Monster](https://www.monster.com/jobs/)
 
 [Reed](https://www.reed.co.uk/)
+
+[Jobsite](https://www.jobsite.co.uk/)
 
 [Dice](https://www.dice.com)
 
