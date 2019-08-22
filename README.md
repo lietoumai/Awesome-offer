@@ -523,13 +523,17 @@
 
 [Linkedin](https://www.linkedin.com)
 
+[Linkedin](https://www.linkedin.com)
+
 [Glassdoor](https://www.glassdoor.com/index.html)
 
-[Monster](https://www.monster.com/jobs/)
+[Monster](https://www.monster.com/)
 
 [Reed](https://www.reed.co.uk/)
 
 [Jobsite](https://www.jobsite.co.uk/)
+
+[Jobs](https://www.jobs.co.uk/)
 
 [Dice](https://www.dice.com)
 
