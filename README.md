@@ -672,6 +672,8 @@
 
 [民工叔](https://github.com/xufei/blog)
 
+[学而时嘻之](https://www.geekonomics10000.com)
+
 [寒冬](http://winter-cn.cnblogs.com/)
 
 [四火](https://www.raychase.net/aboutme)
