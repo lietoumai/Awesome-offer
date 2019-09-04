@@ -476,6 +476,8 @@
 
 [Serverless 应用开发指南](https://serverless.ink/)
 
+[趣学HASKELL](https://learnyoua.haskell.sg/)
+
 ## *会有一些技术论坛*
 [Twitter](https://twitter.com/home)
 
