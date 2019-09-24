@@ -480,6 +480,8 @@
 
 [趣学HASKELL](https://learnyoua.haskell.sg/)
 
+[反应式宣言](https://www.reactivemanifesto.org/zh-CN)
+
 ## *会有一些技术论坛*
 [Twitter](https://twitter.com/home)
 
