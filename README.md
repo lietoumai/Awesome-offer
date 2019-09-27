@@ -621,6 +621,8 @@
 ## *会有好书&免费书推荐*
 [中文&英文](https://github.com/lietoumai/Book/projects)
 
+[Pragprog](https://pragprog.com/)
+
 [周读](http://www.ireadweek.com/)
 
 [Kindel电子书分享](https://kindle.51nazhun.pub/)
