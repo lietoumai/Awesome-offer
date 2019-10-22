@@ -529,7 +529,7 @@
 
 [Linkedin](https://www.linkedin.com)
 
-[Linkedin](https://www.linkedin.com)
+[Weworkremotely](https://weworkremotely.com)
 
 [Glassdoor](https://www.glassdoor.com/index.html)
 
