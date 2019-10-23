@@ -531,6 +531,8 @@
 
 [Weworkremotely](https://weworkremotely.com)
 
+[Ziprecruiter](https://www.ziprecruiter.com/)
+
 [Glassdoor](https://www.glassdoor.com/index.html)
 
 [Monster](https://www.monster.com/)
