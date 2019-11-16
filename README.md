@@ -34,6 +34,8 @@
 
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
 
+[都说简历是一辈子的事，那凭什么呢？](http://lietoumai.com/article/resume)
+
 ### 关于推荐
 [粗谈推荐人](https://github.com/lietoumai/To-be-a-Pythoneer/issues/160)
 
