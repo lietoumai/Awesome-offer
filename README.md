@@ -212,7 +212,9 @@
 
 [生活中应该了解的事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/sheng-huo-zhong-ying-gai-le-jie-de-yi-xie-shi.html)
 
-[感谢那些讲话难听的人](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gan-xie-na-xie-jiang-hua-nan-ting-de-ren.html)
+[感谢那些讲话难听的人](http://detian.me/2017/02/04/understanding-vision-mission-values/)
+
+[打造个人文化：理解愿景、使命、价值观](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gan-xie-na-xie-jiang-hua-nan-ting-de-ren.html)
 
 [为什么做员工挺出色，做领导就很糟糕？](https://github.com/lietoumai/Career/issues/28)
 
