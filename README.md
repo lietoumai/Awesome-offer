@@ -113,6 +113,8 @@
 [创业公司的offer到底接不接？](https://github.com/lietoumai/awesome-offer/issues/54)
 
 ### 关于离职
+[员工离职的34种形式与经济补偿计算对照表](https://github.com/lietoumai/Awesome-offer/issues/61)
+
 [离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
 
 [程序员离职申请范文](https://github.com/lietoumai/Hunter/issues/48)
