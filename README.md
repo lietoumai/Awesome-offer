@@ -121,13 +121,13 @@
 
 [如何优雅的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/ru-he-you-ya-de-ti-li-zhi.html)
 
-[如何得体的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/ru-he-zhuang-bing.html)
-
 [提了离职就走吧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/53ti-le-li-zhi-jiu-yao-zou.html)
 
 [如何离开你所热爱的工作](https://github.com/lietoumai/Career/issues/45)
 
 [除了投简历，离职期间还能做点什么](http://lietoumai.com/article/19)
+
+[失业阶段的一些建议](https://github.com/lietoumai/Awesome-offer/issues/62)
 
 ### 关于入职
 [简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
@@ -151,6 +151,10 @@
 [裁员后三大最常见心理创伤](https://github.com/lietoumai/Career/issues/41)
 
 [当裁员潮来临时，如何跟HR做好最后一轮谈判？](https://github.com/lietoumai/Career/issues/42)
+
+[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
+
+[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
 
 [关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
 
