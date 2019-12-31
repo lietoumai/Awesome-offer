@@ -517,6 +517,8 @@
 
 [DZone](http://www.dzone.com/links/index.html)
 
+[OpenSource](https://opensource.com/)
+
 [Bytes](http://bytes.com/)
 
 [DaniWeb](http://www.daniweb.com/)
