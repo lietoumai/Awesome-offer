@@ -631,12 +631,8 @@
 
 ***
 
-## *会有一些读后感*
-[如何做更好的决策](https://github.com/lietoumai/Hunter/issues/2)
-
-[深度工作](https://github.com/lietoumai/In-a-word/issues/2)
-
-***
+## *女性*
+[生完孩子后如何尽快回到工作岗位？](https://github.com/lietoumai/Career/issues/47)
 
 ## *会有好书&免费书推荐*
 [中文&英文](https://github.com/lietoumai/Book/projects)
@@ -646,6 +642,8 @@
 [周读](http://www.ireadweek.com/)
 
 [Kindel电子书分享](https://kindle.51nazhun.pub/)
+
+[Epubw](https://epubw.com/)
 
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
