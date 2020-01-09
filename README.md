@@ -645,6 +645,8 @@
 
 [Epubw](https://epubw.com/)
 
+[G](https://www.gutenberg.org//)
+
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
 
