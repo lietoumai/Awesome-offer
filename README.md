@@ -413,7 +413,6 @@
 [技术编程人员成长的9个段位](https://www.flysnow.org/2019/01/21/development-growth-nine-segments.html)
 
 ## *会有一些技术文章*
-### 算法&大数据
 [算法（英文）](https://algs4.cs.princeton.edu/home/)
 
 [一致性算法Raft详解](http://www.solinx.co/archives/415)
@@ -422,7 +421,6 @@
 
 [史上最全大数据学习资源](https://yq.aliyun.com/articles/37308)
 
-### 后端
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
 
 [Java 10年技术栈](https://github.com/lietoumai/Tech-article/issues/11)
@@ -635,8 +633,6 @@
 [生完孩子后如何尽快回到工作岗位？](https://github.com/lietoumai/Career/issues/47)
 
 ## *会有好书&免费书推荐*
-[中文&英文](https://github.com/lietoumai/Book/projects)
-
 [Pragprog](https://pragprog.com/)
 
 [周读](http://www.ireadweek.com/)
@@ -645,17 +641,12 @@
 
 [Epubw](https://epubw.com/)
 
-[G](https://www.gutenberg.org//)
+[Gutenberg](https://www.gutenberg.org//)
+
+[Z-Library](https://z-lib.org/)
 
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
-
-## *一言以蔽之*
-[如何给很忙的人写邮件](https://github.com/lietoumai/In-a-word/issues/1)
-
-[深度学习这本书到底在说啥](https://github.com/lietoumai/In-a-word/issues/2)
-
-[如何掌控人生－掌控你的注意力](https://github.com/lietoumai/In-a-word/issues/3)
 
 ## *Insight*
 [哈佛商学院](https://hbr.org/)
@@ -676,7 +667,7 @@
 
 [CNBC](https://www.cnbc.com/make-it/)
 
-## *精品博客推荐*
+## *博客推荐*
 [Yin神](http://www.yinwang.org/)
 
 [鸟窝](https://colobu.com/)
