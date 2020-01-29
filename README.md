@@ -647,6 +647,28 @@
 
 [8freebooks](https://www.8freebooks.net/)
 
+[鸠摩搜书](https://www.jiumodiary.com/)
+
+[智奇搜书](https://www.zqbook.top/)
+
+[PDF之家](https://www.pdfzj.com/)
+
+[Epubee](http://cn.epubee.com/books/)
+
+[Haodoo](http://haodoo.net/)
+
+[子午书简](https://5kindle.com/)
+
+[云海电子图书馆](http://www.pdfbook.cn/)
+
+[科塔学术](https://site.sciping.com/)
+
+[西林街](https://xilinjie.cc/)
+
+[万千集合站](http://www.hejizhan.com/bbs/)
+
+[搬书匠](http://www.banshujiang.cn/)
+
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
 
