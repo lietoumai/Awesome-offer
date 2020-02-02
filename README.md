@@ -447,6 +447,8 @@
 
 [函数式编程很难，这正是你要学习它的原因](https://github.com/lietoumai/Awesome-offer/issues/60)
 
+[500个远程工作的工具](https://standuply.com/330-remote-work-tools0)
+
 ### 科普&未来
 [编程语言快手入门](https://learnxinyminutes.com/)
 
