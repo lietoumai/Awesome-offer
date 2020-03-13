@@ -499,8 +499,6 @@
 
 [Stack Overflow](http://stackoverflow.com/)
 
-[L](https://lobste.rs/)
-
 [Elitedatascience](https://elitedatascience.com/)
 
 [Dzone](https://dzone.com/)
