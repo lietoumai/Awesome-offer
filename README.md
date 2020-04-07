@@ -513,6 +513,12 @@
 
 [Hacker News](https://news.ycombinator.com/news)
 
+[Slashdot](https://slashdot.org/?fhfilter=opensource)
+
+[Nixcraft](https://www.cyberciti.biz/)
+
+[C2](http://www.c2.com/)
+
 [DZone](http://www.dzone.com/links/index.html)
 
 [OpenSource](https://opensource.com/)
