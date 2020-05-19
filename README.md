@@ -158,6 +158,9 @@
 
 [关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
 
+### 关于裁员
+[裁员后三大最常见心理创伤](https://github.com/lietoumai/Career/issues/41)
+
 ***
 
 ## *会有一些职场指南*
@@ -677,6 +680,8 @@
 
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
+
+[劳动合同法摘录(issue内阅读](https://github.com/lietoumai/Reflection/issues/537)
 
 ## *Insight*
 [哈佛商学院](https://hbr.org/)
