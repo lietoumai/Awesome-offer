@@ -127,6 +127,8 @@
 
 [除了投简历，离职期间还能做点什么](http://lietoumai.com/article/19)
 
+[我和同事关系不错，离职的事能和他说吗？](https://github.com/lietoumai/Career/issues/48)
+
 [失业阶段的一些建议](https://github.com/lietoumai/Awesome-offer/issues/62)
 
 ### 关于入职
