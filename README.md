@@ -131,6 +131,8 @@
 
 [失业阶段的一些建议](https://github.com/lietoumai/Awesome-offer/issues/62)
 
+[离职的时候不能说的十句话](https://github.com/lietoumai/Career/issues/49)
+
 ### 关于入职
 [简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
 
