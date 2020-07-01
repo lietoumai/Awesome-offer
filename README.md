@@ -680,7 +680,7 @@
 ## *会有法律相关*
 [一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
 
-[劳动合同法摘录(issue内阅读](https://github.com/lietoumai/Reflection/issues/537)
+[劳动合同法摘录(issue内阅读)](https://github.com/lietoumai/Reflection/issues/537)
 
 ## *Insight*
 [哈佛商学院](https://hbr.org/)
