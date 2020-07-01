@@ -158,12 +158,7 @@
 
 [关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
 
-[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
-
-[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
-
-### 关于裁员
-[裁员后三大最常见心理创伤](https://github.com/lietoumai/Career/issues/41)
+[如果你被解雇了，有十件事一定不能做](https://github.com/lietoumai/Career/issues/50)
 
 ***
 
