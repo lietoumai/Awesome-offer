@@ -162,6 +162,9 @@
 
 [如果你被解雇了，有十件事一定不能做](https://github.com/lietoumai/Career/issues/50)
 
+### 关于个人品牌
+[如何重塑个人品牌](https://github.com/lietoumai/Career/issues/52)
+
 ***
 
 ## *会有一些职场指南*
