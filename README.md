@@ -135,6 +135,8 @@
 
 [如何优雅的吃回头草](https://github.com/lietoumai/Career/issues/51)
 
+[什么时候不适合跳槽](https://github.com/lietoumai/Career/issues/53）
+
 ### 关于入职
 [简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
 
