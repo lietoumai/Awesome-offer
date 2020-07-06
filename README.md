@@ -301,6 +301,8 @@
 
 [谈一点克服焦虑的心得](http://101.132.135.58/article/8)
 
+[如何为重返办公室做准备？](https://github.com/lietoumai/Career/issues/54)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
