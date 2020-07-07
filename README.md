@@ -14,17 +14,6 @@
 
 [一个创业公司是如何倒闭的](https://github.com/lietoumai/Hunter/issues/43)
      
-### 关于招聘
-[关于招聘老程序员的招聘建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/guan-yu-lao-cheng-xu-yuan-zhao-pin-he-ying-pin-de-na-dian-shi.html)
-
-[减少招聘偏见七大法](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/jian-shao-zhao-pin-pian-jian-qi-da-fa.html)
-
-[招聘黑话大全](https://github.com/lietoumai/Hunter/issues/35)
-
-[如何招聘程序员](https://github.com/lietoumai/Hunter/issues/46)
-
-[雇主招程序员时，看中哪些核心竞争力？](https://github.com/lietoumai/Career/issues/32)
-
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
@@ -502,6 +491,19 @@
 [趣学HASKELL](https://learnyoua.haskell.sg/)
 
 [反应式宣言](https://www.reactivemanifesto.org/zh-CN)
+
+### 关于招聘
+[关于招聘老程序员的招聘建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/guan-yu-lao-cheng-xu-yuan-zhao-pin-he-ying-pin-de-na-dian-shi.html)
+
+[减少招聘偏见七大法](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/zhao-pin-xiang-guan/jian-shao-zhao-pin-pian-jian-qi-da-fa.html)
+
+[招聘黑话大全](https://github.com/lietoumai/Hunter/issues/35)
+
+[如何招聘程序员](https://github.com/lietoumai/Hunter/issues/46)
+
+[雇主招程序员时，看中哪些核心竞争力？](https://github.com/lietoumai/Career/issues/32)
+
+[招募程序员的7个错误](https://github.com/lietoumai/Career/issues/55)
 
 ## *会有一些技术论坛*
 [Twitter](https://twitter.com/home)
