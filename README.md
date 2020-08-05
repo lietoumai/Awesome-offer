@@ -292,6 +292,8 @@
 
 [如何为重返办公室做准备？](https://github.com/lietoumai/Career/issues/54)
 
+[怎样的求助方式更容易获得回应？我有三个小小的心得](https://github.com/lietoumai/blog-backup/issues/35)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
