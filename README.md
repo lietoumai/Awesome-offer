@@ -653,6 +653,9 @@
 ## *女性*
 [生完孩子后如何尽快回到工作岗位？](https://github.com/lietoumai/Career/issues/47)
 
+## *个人提升*
+[如何冥想](https://zh.wikihow.com/%E5%86%A5%E6%83%B3)
+
 ## *会有好书&免费书推荐*
 [Pragprog](https://pragprog.com/)
 
