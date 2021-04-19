@@ -40,8 +40,6 @@
 
 [重新审视面试-书摘](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhong-xin-kan-dai-mian-shi.html)
 
-[如何通过一些面试小细节去读懂一个公司？](http://lietoumai.com/article/14)
-
 ### 关于技术面试
 [算法面试巩固](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms)
 
