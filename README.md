@@ -449,6 +449,8 @@
 
 [500个远程工作的工具](https://standuply.com/330-remote-work-tools0)
 
+[的特点 Java 8](https://www.scaler.com/topics/java-8-features/)
+
 ### 科普&未来
 [编程语言快手入门](https://learnxinyminutes.com/)
 
