@@ -13,6 +13,8 @@
 [大公司Vs小公司](https://github.com/lietoumai/Hunter/issues/40)
 
 [一个创业公司是如何倒闭的](https://github.com/lietoumai/Hunter/issues/43)
+
+[如何查看企业的参保人数](https://github.com/lietoumai/Awesome-offer/issues/65)
      
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
