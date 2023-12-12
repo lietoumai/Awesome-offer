@@ -508,8 +508,6 @@
 [招募程序员的7个错误](https://github.com/lietoumai/Career/issues/55)
 
 ## *会有一些技术论坛*
-[Twitter](https://twitter.com/home)
-
 [Dev.to](https://dev.to)
 
 [Stack Overflow](http://stackoverflow.com/)
